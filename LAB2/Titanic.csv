@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,3,+ACI-Braund, Mr. Owen Harris+ACI-,male,22,1,0,A/5 21171,7.25,,S
+2,1,1,+ACI-Cumings, Mrs. John Bradley (Florence Briggs Thayer)+ACI-,female,38,1,0,PC 17599,71.2833,C85,C
+3,1,3,+ACI-Heikkinen, Miss. Laina+ACI-,female,26,0,0,STON/O2. 3101282,7.925,,S
+4,1,1,+ACI-Futrelle, Mrs. Jacques Heath (Lily May Peel)+ACI-,female,35,1,0,113803,53.1,C123,S
+5,0,3,+ACI-Allen, Mr. William Henry+ACI-,male,35,0,0,373450,8.05,,S
+6,0,3,+ACI-Moran, Mr. James+ACI-,male,,0,0,330877,8.4583,,Q
+7,0,1,+ACI-McCarthy, Mr. Timothy J+ACI-,male,54,0,0,17463,51.8625,E46,S
+8,0,3,+ACI-Palsson, Master. Gosta Leonard+ACI-,male,2,3,1,349909,21.075,,S
+9,1,3,+ACI-Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)+ACI-,female,27,0,2,347742,11.1333,,S
+10,1,2,+ACI-Nasser, Mrs. Nicholas (Adele Achem)+ACI-,female,14,1,0,237736,30.0708,,C
+11,1,3,+ACI-Sandstrom, Miss. Marguerite Rut+ACI-,female,4,1,1,PP 9549,16.7,G6,S
+12,1,1,+ACI-Bonnell, Miss. Elizabeth+ACI-,female,58,0,0,113783,26.55,C103,S
+13,0,3,+ACI-Saundercock, Mr. William Henry+ACI-,male,20,0,0,A/5. 2151,8.05,,S
+14,0,3,+ACI-Andersson, Mr. Anders Johan+ACI-,male,39,1,5,347082,31.275,,S
+15,0,3,+ACI-Vestrom, Miss. Hulda Amanda Adolfina+ACI-,female,14,0,0,350406,7.8542,,S
+16,1,2,+ACI-Hewlett, Mrs. (Mary D Kingcome) +ACI-,female,55,0,0,248706,16,,S
+17,0,3,+ACI-Rice, Master. Eugene+ACI-,male,2,4,1,382652,29.125,,Q
+18,1,2,+ACI-Williams, Mr. Charles Eugene+ACI-,male,,0,0,244373,13,,S
+19,0,3,+ACI-Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)+ACI-,female,31,1,0,345763,18,,S
+20,1,3,+ACI-Masselmani, Mrs. Fatima+ACI-,female,,0,0,2649,7.225,,C
+21,0,2,+ACI-Fynney, Mr. Joseph J+ACI-,male,35,0,0,239865,26,,S
+22,1,2,+ACI-Beesley, Mr. Lawrence+ACI-,male,34,0,0,248698,13,D56,S
+23,1,3,+ACI-McGowan, Miss. Anna +ACIAIg-Annie+ACIAIg-+ACI-,female,15,0,0,330923,8.0292,,Q
+24,1,1,+ACI-Sloper, Mr. William Thompson+ACI-,male,28,0,0,113788,35.5,A6,S
+25,0,3,+ACI-Palsson, Miss. Torborg Danira+ACI-,female,8,3,1,349909,21.075,,S
+26,1,3,+ACI-Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)+ACI-,female,38,1,5,347077,31.3875,,S
+27,0,3,+ACI-Emir, Mr. Farred Chehab+ACI-,male,,0,0,2631,7.225,,C
+28,0,1,+ACI-Fortune, Mr. Charles Alexander+ACI-,male,19,3,2,19950,263,C23 C25 C27,S
+29,1,3,+ACI-O'Dwyer, Miss. Ellen +ACIAIg-Nellie+ACIAIg-+ACI-,female,,0,0,330959,7.8792,,Q
+30,0,3,+ACI-Todoroff, Mr. Lalio+ACI-,male,,0,0,349216,7.8958,,S
+31,0,1,+ACI-Uruchurtu, Don. Manuel E+ACI-,male,40,0,0,PC 17601,27.7208,,C
+32,1,1,+ACI-Spencer, Mrs. William Augustus (Marie Eugenie)+ACI-,female,,1,0,PC 17569,146.5208,B78,C
+33,1,3,+ACI-Glynn, Miss. Mary Agatha+ACI-,female,,0,0,335677,7.75,,Q
+34,0,2,+ACI-Wheadon, Mr. Edward H+ACI-,male,66,0,0,C.A. 24579,10.5,,S
+35,0,1,+ACI-Meyer, Mr. Edgar Joseph+ACI-,male,28,1,0,PC 17604,82.1708,,C
+36,0,1,+ACI-Holverson, Mr. Alexander Oskar+ACI-,male,42,1,0,113789,52,,S
+37,1,3,+ACI-Mamee, Mr. Hanna+ACI-,male,,0,0,2677,7.2292,,C
+38,0,3,+ACI-Cann, Mr. Ernest Charles+ACI-,male,21,0,0,A./5. 2152,8.05,,S
+39,0,3,+ACI-Vander Planke, Miss. Augusta Maria+ACI-,female,18,2,0,345764,18,,S
+40,1,3,+ACI-Nicola+AC0-Yarred, Miss. Jamila+ACI-,female,14,1,0,2651,11.2417,,C
+41,0,3,+ACI-Ahlin, Mrs. Johan (Johanna Persdotter Larsson)+ACI-,female,40,1,0,7546,9.475,,S
+42,0,2,+ACI-Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)+ACI-,female,27,1,0,11668,21,,S
+43,0,3,+ACI-Kraeff, Mr. Theodor+ACI-,male,,0,0,349253,7.8958,,C
+44,1,2,+ACI-Laroche, Miss. Simonne Marie Anne Andree+ACI-,female,3,1,2,SC/Paris 2123,41.5792,,C
+45,1,3,+ACI-Devaney, Miss. Margaret Delia+ACI-,female,19,0,0,330958,7.8792,,Q
+46,0,3,+ACI-Rogers, Mr. William John+ACI-,male,,0,0,S.C./A.4. 23567,8.05,,S
+47,0,3,+ACI-Lennon, Mr. Denis+ACI-,male,,1,0,370371,15.5,,Q
+48,1,3,+ACI-O'Driscoll, Miss. Bridget+ACI-,female,,0,0,14311,7.75,,Q
+49,0,3,+ACI-Samaan, Mr. Youssef+ACI-,male,,2,0,2662,21.6792,,C
+50,0,3,+ACI-Arnold+AC0-Franchi, Mrs. Josef (Josefine Franchi)+ACI-,female,18,1,0,349237,17.8,,S
+51,0,3,+ACI-Panula, Master. Juha Niilo+ACI-,male,7,4,1,3101295,39.6875,,S
+52,0,3,+ACI-Nosworthy, Mr. Richard Cater+ACI-,male,21,0,0,A/4. 39886,7.8,,S
+53,1,1,+ACI-Harper, Mrs. Henry Sleeper (Myna Haxtun)+ACI-,female,49,1,0,PC 17572,76.7292,D33,C
+54,1,2,+ACI-Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)+ACI-,female,29,1,0,2926,26,,S
+55,0,1,+ACI-Ostby, Mr. Engelhart Cornelius+ACI-,male,65,0,1,113509,61.9792,B30,C
+56,1,1,+ACI-Woolner, Mr. Hugh+ACI-,male,,0,0,19947,35.5,C52,S
+57,1,2,+ACI-Rugg, Miss. Emily+ACI-,female,21,0,0,C.A. 31026,10.5,,S
+58,0,3,+ACI-Novel, Mr. Mansouer+ACI-,male,28.5,0,0,2697,7.2292,,C
+59,1,2,+ACI-West, Miss. Constance Mirium+ACI-,female,5,1,2,C.A. 34651,27.75,,S
+60,0,3,+ACI-Goodwin, Master. William Frederick+ACI-,male,11,5,2,CA 2144,46.9,,S
+61,0,3,+ACI-Sirayanian, Mr. Orsen+ACI-,male,22,0,0,2669,7.2292,,C
+62,1,1,+ACI-Icard, Miss. Amelie+ACI-,female,38,0,0,113572,80,B28,
+63,0,1,+ACI-Harris, Mr. Henry Birkhardt+ACI-,male,45,1,0,36973,83.475,C83,S
+64,0,3,+ACI-Skoog, Master. Harald+ACI-,male,4,3,2,347088,27.9,,S
+65,0,1,+ACI-Stewart, Mr. Albert A+ACI-,male,,0,0,PC 17605,27.7208,,C
+66,1,3,+ACI-Moubarek, Master. Gerios+ACI-,male,,1,1,2661,15.2458,,C
+67,1,2,+ACI-Nye, Mrs. (Elizabeth Ramell)+ACI-,female,29,0,0,C.A. 29395,10.5,F33,S
+68,0,3,+ACI-Crease, Mr. Ernest James+ACI-,male,19,0,0,S.P. 3464,8.1583,,S
+69,1,3,+ACI-Andersson, Miss. Erna Alexandra+ACI-,female,17,4,2,3101281,7.925,,S
+70,0,3,+ACI-Kink, Mr. Vincenz+ACI-,male,26,2,0,315151,8.6625,,S
+71,0,2,+ACI-Jenkin, Mr. Stephen Curnow+ACI-,male,32,0,0,C.A. 33111,10.5,,S
+72,0,3,+ACI-Goodwin, Miss. Lillian Amy+ACI-,female,16,5,2,CA 2144,46.9,,S
+73,0,2,+ACI-Hood, Mr. Ambrose Jr+ACI-,male,21,0,0,S.O.C. 14879,73.5,,S
+74,0,3,+ACI-Chronopoulos, Mr. Apostolos+ACI-,male,26,1,0,2680,14.4542,,C
+75,1,3,+ACI-Bing, Mr. Lee+ACI-,male,32,0,0,1601,56.4958,,S
+76,0,3,+ACI-Moen, Mr. Sigurd Hansen+ACI-,male,25,0,0,348123,7.65,F G73,S
+77,0,3,+ACI-Staneff, Mr. Ivan+ACI-,male,,0,0,349208,7.8958,,S
+78,0,3,+ACI-Moutal, Mr. Rahamin Haim+ACI-,male,,0,0,374746,8.05,,S
+79,1,2,+ACI-Caldwell, Master. Alden Gates+ACI-,male,0.83,0,2,248738,29,,S
+80,1,3,+ACI-Dowdell, Miss. Elizabeth+ACI-,female,30,0,0,364516,12.475,,S
+81,0,3,+ACI-Waelens, Mr. Achille+ACI-,male,22,0,0,345767,9,,S
+82,1,3,+ACI-Sheerlinck, Mr. Jan Baptist+ACI-,male,29,0,0,345779,9.5,,S
+83,1,3,+ACI-McDermott, Miss. Brigdet Delia+ACI-,female,,0,0,330932,7.7875,,Q
+84,0,1,+ACI-Carrau, Mr. Francisco M+ACI-,male,28,0,0,113059,47.1,,S
+85,1,2,+ACI-Ilett, Miss. Bertha+ACI-,female,17,0,0,SO/C 14885,10.5,,S
+86,1,3,+ACI-Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)+ACI-,female,33,3,0,3101278,15.85,,S
+87,0,3,+ACI-Ford, Mr. William Neal+ACI-,male,16,1,3,W./C. 6608,34.375,,S
+88,0,3,+ACI-Slocovski, Mr. Selman Francis+ACI-,male,,0,0,SOTON/OQ 392086,8.05,,S
+89,1,1,+ACI-Fortune, Miss. Mabel Helen+ACI-,female,23,3,2,19950,263,C23 C25 C27,S
+90,0,3,+ACI-Celotti, Mr. Francesco+ACI-,male,24,0,0,343275,8.05,,S
+91,0,3,+ACI-Christmann, Mr. Emil+ACI-,male,29,0,0,343276,8.05,,S
+92,0,3,+ACI-Andreasson, Mr. Paul Edvin+ACI-,male,20,0,0,347466,7.8542,,S
+93,0,1,+ACI-Chaffee, Mr. Herbert Fuller+ACI-,male,46,1,0,W.E.P. 5734,61.175,E31,S
+94,0,3,+ACI-Dean, Mr. Bertram Frank+ACI-,male,26,1,2,C.A. 2315,20.575,,S
+95,0,3,+ACI-Coxon, Mr. Daniel+ACI-,male,59,0,0,364500,7.25,,S
+96,0,3,+ACI-Shorney, Mr. Charles Joseph+ACI-,male,,0,0,374910,8.05,,S
+97,0,1,+ACI-Goldschmidt, Mr. George B+ACI-,male,71,0,0,PC 17754,34.6542,A5,C
+98,1,1,+ACI-Greenfield, Mr. William Bertram+ACI-,male,23,0,1,PC 17759,63.3583,D10 D12,C
+99,1,2,+ACI-Doling, Mrs. John T (Ada Julia Bone)+ACI-,female,34,0,1,231919,23,,S
+100,0,2,+ACI-Kantor, Mr. Sinai+ACI-,male,34,1,0,244367,26,,S
+101,0,3,+ACI-Petranec, Miss. Matilda+ACI-,female,28,0,0,349245,7.8958,,S
+102,0,3,+ACI-Petroff, Mr. Pastcho (+ACIAIg-Pentcho+ACIAIg-)+ACI-,male,,0,0,349215,7.8958,,S
+103,0,1,+ACI-White, Mr. Richard Frasar+ACI-,male,21,0,1,35281,77.2875,D26,S
+104,0,3,+ACI-Johansson, Mr. Gustaf Joel+ACI-,male,33,0,0,7540,8.6542,,S
+105,0,3,+ACI-Gustafsson, Mr. Anders Vilhelm+ACI-,male,37,2,0,3101276,7.925,,S
+106,0,3,+ACI-Mionoff, Mr. Stoytcho+ACI-,male,28,0,0,349207,7.8958,,S
+107,1,3,+ACI-Salkjelsvik, Miss. Anna Kristine+ACI-,female,21,0,0,343120,7.65,,S
+108,1,3,+ACI-Moss, Mr. Albert Johan+ACI-,male,,0,0,312991,7.775,,S
+109,0,3,+ACI-Rekic, Mr. Tido+ACI-,male,38,0,0,349249,7.8958,,S
+110,1,3,+ACI-Moran, Miss. Bertha+ACI-,female,,1,0,371110,24.15,,Q
+111,0,1,+ACI-Porter, Mr. Walter Chamberlain+ACI-,male,47,0,0,110465,52,C110,S
+112,0,3,+ACI-Zabour, Miss. Hileni+ACI-,female,14.5,1,0,2665,14.4542,,C
+113,0,3,+ACI-Barton, Mr. David John+ACI-,male,22,0,0,324669,8.05,,S
+114,0,3,+ACI-Jussila, Miss. Katriina+ACI-,female,20,1,0,4136,9.825,,S
+115,0,3,+ACI-Attalah, Miss. Malake+ACI-,female,17,0,0,2627,14.4583,,C
+116,0,3,+ACI-Pekoniemi, Mr. Edvard+ACI-,male,21,0,0,STON/O 2. 3101294,7.925,,S
+117,0,3,+ACI-Connors, Mr. Patrick+ACI-,male,70.5,0,0,370369,7.75,,Q
+118,0,2,+ACI-Turpin, Mr. William John Robert+ACI-,male,29,1,0,11668,21,,S
+119,0,1,+ACI-Baxter, Mr. Quigg Edmond+ACI-,male,24,0,1,PC 17558,247.5208,B58 B60,C
+120,0,3,+ACI-Andersson, Miss. Ellis Anna Maria+ACI-,female,2,4,2,347082,31.275,,S
+121,0,2,+ACI-Hickman, Mr. Stanley George+ACI-,male,21,2,0,S.O.C. 14879,73.5,,S
+122,0,3,+ACI-Moore, Mr. Leonard Charles+ACI-,male,,0,0,A4. 54510,8.05,,S
+123,0,2,+ACI-Nasser, Mr. Nicholas+ACI-,male,32.5,1,0,237736,30.0708,,C
+124,1,2,+ACI-Webber, Miss. Susan+ACI-,female,32.5,0,0,27267,13,E101,S
+125,0,1,+ACI-White, Mr. Percival Wayland+ACI-,male,54,0,1,35281,77.2875,D26,S
+126,1,3,+ACI-Nicola+AC0-Yarred, Master. Elias+ACI-,male,12,1,0,2651,11.2417,,C
+127,0,3,+ACI-McMahon, Mr. Martin+ACI-,male,,0,0,370372,7.75,,Q
+128,1,3,+ACI-Madsen, Mr. Fridtjof Arne+ACI-,male,24,0,0,C 17369,7.1417,,S
+129,1,3,+ACI-Peter, Miss. Anna+ACI-,female,,1,1,2668,22.3583,F E69,C
+130,0,3,+ACI-Ekstrom, Mr. Johan+ACI-,male,45,0,0,347061,6.975,,S
+131,0,3,+ACI-Drazenoic, Mr. Jozef+ACI-,male,33,0,0,349241,7.8958,,C
+132,0,3,+ACI-Coelho, Mr. Domingos Fernandeo+ACI-,male,20,0,0,SOTON/O.Q. 3101307,7.05,,S
+133,0,3,+ACI-Robins, Mrs. Alexander A (Grace Charity Laury)+ACI-,female,47,1,0,A/5. 3337,14.5,,S
+134,1,2,+ACI-Weisz, Mrs. Leopold (Mathilde Francoise Pede)+ACI-,female,29,1,0,228414,26,,S
+135,0,2,+ACI-Sobey, Mr. Samuel James Hayden+ACI-,male,25,0,0,C.A. 29178,13,,S
+136,0,2,+ACI-Richard, Mr. Emile+ACI-,male,23,0,0,SC/PARIS 2133,15.0458,,C
+137,1,1,+ACI-Newsom, Miss. Helen Monypeny+ACI-,female,19,0,2,11752,26.2833,D47,S
+138,0,1,+ACI-Futrelle, Mr. Jacques Heath+ACI-,male,37,1,0,113803,53.1,C123,S
+139,0,3,+ACI-Osen, Mr. Olaf Elon+ACI-,male,16,0,0,7534,9.2167,,S
+140,0,1,+ACI-Giglio, Mr. Victor+ACI-,male,24,0,0,PC 17593,79.2,B86,C
+141,0,3,+ACI-Boulos, Mrs. Joseph (Sultana)+ACI-,female,,0,2,2678,15.2458,,C
+142,1,3,+ACI-Nysten, Miss. Anna Sofia+ACI-,female,22,0,0,347081,7.75,,S
+143,1,3,+ACI-Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)+ACI-,female,24,1,0,STON/O2. 3101279,15.85,,S
+144,0,3,+ACI-Burke, Mr. Jeremiah+ACI-,male,19,0,0,365222,6.75,,Q
+145,0,2,+ACI-Andrew, Mr. Edgardo Samuel+ACI-,male,18,0,0,231945,11.5,,S
+146,0,2,+ACI-Nicholls, Mr. Joseph Charles+ACI-,male,19,1,1,C.A. 33112,36.75,,S
+147,1,3,+ACI-Andersson, Mr. August Edvard (+ACIAIg-Wennerstrom+ACIAIg-)+ACI-,male,27,0,0,350043,7.7958,,S
+148,0,3,+ACI-Ford, Miss. Robina Maggie +ACIAIg-Ruby+ACIAIg-+ACI-,female,9,2,2,W./C. 6608,34.375,,S
+149,0,2,+ACI-Navratil, Mr. Michel (+ACIAIg-Louis M Hoffman+ACIAIg-)+ACI-,male,36.5,0,2,230080,26,F2,S
+150,0,2,+ACI-Byles, Rev. Thomas Roussel Davids+ACI-,male,42,0,0,244310,13,,S
+151,0,2,+ACI-Bateman, Rev. Robert James+ACI-,male,51,0,0,S.O.P. 1166,12.525,,S
+152,1,1,+ACI-Pears, Mrs. Thomas (Edith Wearne)+ACI-,female,22,1,0,113776,66.6,C2,S
+153,0,3,+ACI-Meo, Mr. Alfonzo+ACI-,male,55.5,0,0,A.5. 11206,8.05,,S
+154,0,3,+ACI-van Billiard, Mr. Austin Blyler+ACI-,male,40.5,0,2,A/5. 851,14.5,,S
+155,0,3,+ACI-Olsen, Mr. Ole Martin+ACI-,male,,0,0,Fa 265302,7.3125,,S
+156,0,1,+ACI-Williams, Mr. Charles Duane+ACI-,male,51,0,1,PC 17597,61.3792,,C
+157,1,3,+ACI-Gilnagh, Miss. Katherine +ACIAIg-Katie+ACIAIg-+ACI-,female,16,0,0,35851,7.7333,,Q
+158,0,3,+ACI-Corn, Mr. Harry+ACI-,male,30,0,0,SOTON/OQ 392090,8.05,,S
+159,0,3,+ACI-Smiljanic, Mr. Mile+ACI-,male,,0,0,315037,8.6625,,S
+160,0,3,+ACI-Sage, Master. Thomas Henry+ACI-,male,,8,2,CA. 2343,69.55,,S
+161,0,3,+ACI-Cribb, Mr. John Hatfield+ACI-,male,44,0,1,371362,16.1,,S
+162,1,2,+ACI-Watt, Mrs. James (Elizabeth +ACIAIg-Bessie+ACIAIg- Inglis Milne)+ACI-,female,40,0,0,C.A. 33595,15.75,,S
+163,0,3,+ACI-Bengtsson, Mr. John Viktor+ACI-,male,26,0,0,347068,7.775,,S
+164,0,3,+ACI-Calic, Mr. Jovo+ACI-,male,17,0,0,315093,8.6625,,S
+165,0,3,+ACI-Panula, Master. Eino Viljami+ACI-,male,1,4,1,3101295,39.6875,,S
+166,1,3,+ACI-Goldsmith, Master. Frank John William +ACIAIg-Frankie+ACIAIg-+ACI-,male,9,0,2,363291,20.525,,S
+167,1,1,+ACI-Chibnall, Mrs. (Edith Martha Bowerman)+ACI-,female,,0,1,113505,55,E33,S
+168,0,3,+ACI-Skoog, Mrs. William (Anna Bernhardina Karlsson)+ACI-,female,45,1,4,347088,27.9,,S
+169,0,1,+ACI-Baumann, Mr. John D+ACI-,male,,0,0,PC 17318,25.925,,S
+170,0,3,+ACI-Ling, Mr. Lee+ACI-,male,28,0,0,1601,56.4958,,S
+171,0,1,+ACI-Van der hoef, Mr. Wyckoff+ACI-,male,61,0,0,111240,33.5,B19,S
+172,0,3,+ACI-Rice, Master. Arthur+ACI-,male,4,4,1,382652,29.125,,Q
+173,1,3,+ACI-Johnson, Miss. Eleanor Ileen+ACI-,female,1,1,1,347742,11.1333,,S
+174,0,3,+ACI-Sivola, Mr. Antti Wilhelm+ACI-,male,21,0,0,STON/O 2. 3101280,7.925,,S
+175,0,1,+ACI-Smith, Mr. James Clinch+ACI-,male,56,0,0,17764,30.6958,A7,C
+176,0,3,+ACI-Klasen, Mr. Klas Albin+ACI-,male,18,1,1,350404,7.8542,,S
+177,0,3,+ACI-Lefebre, Master. Henry Forbes+ACI-,male,,3,1,4133,25.4667,,S
+178,0,1,+ACI-Isham, Miss. Ann Elizabeth+ACI-,female,50,0,0,PC 17595,28.7125,C49,C
+179,0,2,+ACI-Hale, Mr. Reginald+ACI-,male,30,0,0,250653,13,,S
+180,0,3,+ACI-Leonard, Mr. Lionel+ACI-,male,36,0,0,LINE,0,,S
+181,0,3,+ACI-Sage, Miss. Constance Gladys+ACI-,female,,8,2,CA. 2343,69.55,,S
+182,0,2,+ACI-Pernot, Mr. Rene+ACI-,male,,0,0,SC/PARIS 2131,15.05,,C
+183,0,3,+ACI-Asplund, Master. Clarence Gustaf Hugo+ACI-,male,9,4,2,347077,31.3875,,S
+184,1,2,+ACI-Becker, Master. Richard F+ACI-,male,1,2,1,230136,39,F4,S
+185,1,3,+ACI-Kink+AC0-Heilmann, Miss. Luise Gretchen+ACI-,female,4,0,2,315153,22.025,,S
+186,0,1,+ACI-Rood, Mr. Hugh Roscoe+ACI-,male,,0,0,113767,50,A32,S
+187,1,3,+ACI-O'Brien, Mrs. Thomas (Johanna +ACIAIg-Hannah+ACIAIg- Godfrey)+ACI-,female,,1,0,370365,15.5,,Q
+188,1,1,+ACI-Romaine, Mr. Charles Hallace (+ACIAIg-Mr C Rolmane+ACIAIg-)+ACI-,male,45,0,0,111428,26.55,,S
+189,0,3,+ACI-Bourke, Mr. John+ACI-,male,40,1,1,364849,15.5,,Q
+190,0,3,+ACI-Turcin, Mr. Stjepan+ACI-,male,36,0,0,349247,7.8958,,S
+191,1,2,+ACI-Pinsky, Mrs. (Rosa)+ACI-,female,32,0,0,234604,13,,S
+192,0,2,+ACI-Carbines, Mr. William+ACI-,male,19,0,0,28424,13,,S
+193,1,3,+ACI-Andersen+AC0-Jensen, Miss. Carla Christine Nielsine+ACI-,female,19,1,0,350046,7.8542,,S
+194,1,2,+ACI-Navratil, Master. Michel M+ACI-,male,3,1,1,230080,26,F2,S
+195,1,1,+ACI-Brown, Mrs. James Joseph (Margaret Tobin)+ACI-,female,44,0,0,PC 17610,27.7208,B4,C
+196,1,1,+ACI-Lurette, Miss. Elise+ACI-,female,58,0,0,PC 17569,146.5208,B80,C
+197,0,3,+ACI-Mernagh, Mr. Robert+ACI-,male,,0,0,368703,7.75,,Q
+198,0,3,+ACI-Olsen, Mr. Karl Siegwart Andreas+ACI-,male,42,0,1,4579,8.4042,,S
+199,1,3,+ACI-Madigan, Miss. Margaret +ACIAIg-Maggie+ACIAIg-+ACI-,female,,0,0,370370,7.75,,Q
+200,0,2,+ACI-Yrois, Miss. Henriette (+ACIAIg-Mrs Harbeck+ACIAIg-)+ACI-,female,24,0,0,248747,13,,S
+201,0,3,+ACI-Vande Walle, Mr. Nestor Cyriel+ACI-,male,28,0,0,345770,9.5,,S
+202,0,3,+ACI-Sage, Mr. Frederick+ACI-,male,,8,2,CA. 2343,69.55,,S
+203,0,3,+ACI-Johanson, Mr. Jakob Alfred+ACI-,male,34,0,0,3101264,6.4958,,S
+204,0,3,+ACI-Youseff, Mr. Gerious+ACI-,male,45.5,0,0,2628,7.225,,C
+205,1,3,+ACI-Cohen, Mr. Gurshon +ACIAIg-Gus+ACIAIg-+ACI-,male,18,0,0,A/5 3540,8.05,,S
+206,0,3,+ACI-Strom, Miss. Telma Matilda+ACI-,female,2,0,1,347054,10.4625,G6,S
+207,0,3,+ACI-Backstrom, Mr. Karl Alfred+ACI-,male,32,1,0,3101278,15.85,,S
+208,1,3,+ACI-Albimona, Mr. Nassef Cassem+ACI-,male,26,0,0,2699,18.7875,,C
+209,1,3,+ACI-Carr, Miss. Helen +ACIAIg-Ellen+ACIAIg-+ACI-,female,16,0,0,367231,7.75,,Q
+210,1,1,+ACI-Blank, Mr. Henry+ACI-,male,40,0,0,112277,31,A31,C
+211,0,3,+ACI-Ali, Mr. Ahmed+ACI-,male,24,0,0,SOTON/O.Q. 3101311,7.05,,S
+212,1,2,+ACI-Cameron, Miss. Clear Annie+ACI-,female,35,0,0,F.C.C. 13528,21,,S
+213,0,3,+ACI-Perkin, Mr. John Henry+ACI-,male,22,0,0,A/5 21174,7.25,,S
+214,0,2,+ACI-Givard, Mr. Hans Kristensen+ACI-,male,30,0,0,250646,13,,S
+215,0,3,+ACI-Kiernan, Mr. Philip+ACI-,male,,1,0,367229,7.75,,Q
+216,1,1,+ACI-Newell, Miss. Madeleine+ACI-,female,31,1,0,35273,113.275,D36,C
+217,1,3,+ACI-Honkanen, Miss. Eliina+ACI-,female,27,0,0,STON/O2. 3101283,7.925,,S
+218,0,2,+ACI-Jacobsohn, Mr. Sidney Samuel+ACI-,male,42,1,0,243847,27,,S
+219,1,1,+ACI-Bazzani, Miss. Albina+ACI-,female,32,0,0,11813,76.2917,D15,C
+220,0,2,+ACI-Harris, Mr. Walter+ACI-,male,30,0,0,W/C 14208,10.5,,S
+221,1,3,+ACI-Sunderland, Mr. Victor Francis+ACI-,male,16,0,0,SOTON/OQ 392089,8.05,,S
+222,0,2,+ACI-Bracken, Mr. James H+ACI-,male,27,0,0,220367,13,,S
+223,0,3,+ACI-Green, Mr. George Henry+ACI-,male,51,0,0,21440,8.05,,S
+224,0,3,+ACI-Nenkoff, Mr. Christo+ACI-,male,,0,0,349234,7.8958,,S
+225,1,1,+ACI-Hoyt, Mr. Frederick Maxfield+ACI-,male,38,1,0,19943,90,C93,S
+226,0,3,+ACI-Berglund, Mr. Karl Ivar Sven+ACI-,male,22,0,0,PP 4348,9.35,,S
+227,1,2,+ACI-Mellors, Mr. William John+ACI-,male,19,0,0,SW/PP 751,10.5,,S
+228,0,3,+ACI-Lovell, Mr. John Hall (+ACIAIg-Henry+ACIAIg-)+ACI-,male,20.5,0,0,A/5 21173,7.25,,S
+229,0,2,+ACI-Fahlstrom, Mr. Arne Jonas+ACI-,male,18,0,0,236171,13,,S
+230,0,3,+ACI-Lefebre, Miss. Mathilde+ACI-,female,,3,1,4133,25.4667,,S
+231,1,1,+ACI-Harris, Mrs. Henry Birkhardt (Irene Wallach)+ACI-,female,35,1,0,36973,83.475,C83,S
+232,0,3,+ACI-Larsson, Mr. Bengt Edvin+ACI-,male,29,0,0,347067,7.775,,S
+233,0,2,+ACI-Sjostedt, Mr. Ernst Adolf+ACI-,male,59,0,0,237442,13.5,,S
+234,1,3,+ACI-Asplund, Miss. Lillian Gertrud+ACI-,female,5,4,2,347077,31.3875,,S
+235,0,2,+ACI-Leyson, Mr. Robert William Norman+ACI-,male,24,0,0,C.A. 29566,10.5,,S
+236,0,3,+ACI-Harknett, Miss. Alice Phoebe+ACI-,female,,0,0,W./C. 6609,7.55,,S
+237,0,2,+ACI-Hold, Mr. Stephen+ACI-,male,44,1,0,26707,26,,S
+238,1,2,+ACI-Collyer, Miss. Marjorie +ACIAIg-Lottie+ACIAIg-+ACI-,female,8,0,2,C.A. 31921,26.25,,S
+239,0,2,+ACI-Pengelly, Mr. Frederick William+ACI-,male,19,0,0,28665,10.5,,S
+240,0,2,+ACI-Hunt, Mr. George Henry+ACI-,male,33,0,0,SCO/W 1585,12.275,,S
+241,0,3,+ACI-Zabour, Miss. Thamine+ACI-,female,,1,0,2665,14.4542,,C
+242,1,3,+ACI-Murphy, Miss. Katherine +ACIAIg-Kate+ACIAIg-+ACI-,female,,1,0,367230,15.5,,Q
+243,0,2,+ACI-Coleridge, Mr. Reginald Charles+ACI-,male,29,0,0,W./C. 14263,10.5,,S
+244,0,3,+ACI-Maenpaa, Mr. Matti Alexanteri+ACI-,male,22,0,0,STON/O 2. 3101275,7.125,,S
+245,0,3,+ACI-Attalah, Mr. Sleiman+ACI-,male,30,0,0,2694,7.225,,C
+246,0,1,+ACI-Minahan, Dr. William Edward+ACI-,male,44,2,0,19928,90,C78,Q
+247,0,3,+ACI-Lindahl, Miss. Agda Thorilda Viktoria+ACI-,female,25,0,0,347071,7.775,,S
+248,1,2,+ACI-Hamalainen, Mrs. William (Anna)+ACI-,female,24,0,2,250649,14.5,,S
+249,1,1,+ACI-Beckwith, Mr. Richard Leonard+ACI-,male,37,1,1,11751,52.5542,D35,S
+250,0,2,+ACI-Carter, Rev. Ernest Courtenay+ACI-,male,54,1,0,244252,26,,S
+251,0,3,+ACI-Reed, Mr. James George+ACI-,male,,0,0,362316,7.25,,S
+252,0,3,+ACI-Strom, Mrs. Wilhelm (Elna Matilda Persson)+ACI-,female,29,1,1,347054,10.4625,G6,S
+253,0,1,+ACI-Stead, Mr. William Thomas+ACI-,male,62,0,0,113514,26.55,C87,S
+254,0,3,+ACI-Lobb, Mr. William Arthur+ACI-,male,30,1,0,A/5. 3336,16.1,,S
+255,0,3,+ACI-Rosblom, Mrs. Viktor (Helena Wilhelmina)+ACI-,female,41,0,2,370129,20.2125,,S
+256,1,3,+ACI-Touma, Mrs. Darwis (Hanne Youssef Razi)+ACI-,female,29,0,2,2650,15.2458,,C
+257,1,1,+ACI-Thorne, Mrs. Gertrude Maybelle+ACI-,female,,0,0,PC 17585,79.2,,C
+258,1,1,+ACI-Cherry, Miss. Gladys+ACI-,female,30,0,0,110152,86.5,B77,S
+259,1,1,+ACI-Ward, Miss. Anna+ACI-,female,35,0,0,PC 17755,512.3292,,C
+260,1,2,+ACI-Parrish, Mrs. (Lutie Davis)+ACI-,female,50,0,1,230433,26,,S
+261,0,3,+ACI-Smith, Mr. Thomas+ACI-,male,,0,0,384461,7.75,,Q
+262,1,3,+ACI-Asplund, Master. Edvin Rojj Felix+ACI-,male,3,4,2,347077,31.3875,,S
+263,0,1,+ACI-Taussig, Mr. Emil+ACI-,male,52,1,1,110413,79.65,E67,S
+264,0,1,+ACI-Harrison, Mr. William+ACI-,male,40,0,0,112059,0,B94,S
+265,0,3,+ACI-Henry, Miss. Delia+ACI-,female,,0,0,382649,7.75,,Q
+266,0,2,+ACI-Reeves, Mr. David+ACI-,male,36,0,0,C.A. 17248,10.5,,S
+267,0,3,+ACI-Panula, Mr. Ernesti Arvid+ACI-,male,16,4,1,3101295,39.6875,,S
+268,1,3,+ACI-Persson, Mr. Ernst Ulrik+ACI-,male,25,1,0,347083,7.775,,S
+269,1,1,+ACI-Graham, Mrs. William Thompson (Edith Junkins)+ACI-,female,58,0,1,PC 17582,153.4625,C125,S
+270,1,1,+ACI-Bissette, Miss. Amelia+ACI-,female,35,0,0,PC 17760,135.6333,C99,S
+271,0,1,+ACI-Cairns, Mr. Alexander+ACI-,male,,0,0,113798,31,,S
+272,1,3,+ACI-Tornquist, Mr. William Henry+ACI-,male,25,0,0,LINE,0,,S
+273,1,2,+ACI-Mellinger, Mrs. (Elizabeth Anne Maidment)+ACI-,female,41,0,1,250644,19.5,,S
+274,0,1,+ACI-Natsch, Mr. Charles H+ACI-,male,37,0,1,PC 17596,29.7,C118,C
+275,1,3,+ACI-Healy, Miss. Hanora +ACIAIg-Nora+ACIAIg-+ACI-,female,,0,0,370375,7.75,,Q
+276,1,1,+ACI-Andrews, Miss. Kornelia Theodosia+ACI-,female,63,1,0,13502,77.9583,D7,S
+277,0,3,+ACI-Lindblom, Miss. Augusta Charlotta+ACI-,female,45,0,0,347073,7.75,,S
+278,0,2,+ACI-Parkes, Mr. Francis +ACIAIg-Frank+ACIAIg-+ACI-,male,,0,0,239853,0,,S
+279,0,3,+ACI-Rice, Master. Eric+ACI-,male,7,4,1,382652,29.125,,Q
+280,1,3,+ACI-Abbott, Mrs. Stanton (Rosa Hunt)+ACI-,female,35,1,1,C.A. 2673,20.25,,S
+281,0,3,+ACI-Duane, Mr. Frank+ACI-,male,65,0,0,336439,7.75,,Q
+282,0,3,+ACI-Olsson, Mr. Nils Johan Goransson+ACI-,male,28,0,0,347464,7.8542,,S
+283,0,3,+ACI-de Pelsmaeker, Mr. Alfons+ACI-,male,16,0,0,345778,9.5,,S
+284,1,3,+ACI-Dorking, Mr. Edward Arthur+ACI-,male,19,0,0,A/5. 10482,8.05,,S
+285,0,1,+ACI-Smith, Mr. Richard William+ACI-,male,,0,0,113056,26,A19,S
+286,0,3,+ACI-Stankovic, Mr. Ivan+ACI-,male,33,0,0,349239,8.6625,,C
+287,1,3,+ACI-de Mulder, Mr. Theodore+ACI-,male,30,0,0,345774,9.5,,S
+288,0,3,+ACI-Naidenoff, Mr. Penko+ACI-,male,22,0,0,349206,7.8958,,S
+289,1,2,+ACI-Hosono, Mr. Masabumi+ACI-,male,42,0,0,237798,13,,S
+290,1,3,+ACI-Connolly, Miss. Kate+ACI-,female,22,0,0,370373,7.75,,Q
+291,1,1,+ACI-Barber, Miss. Ellen +ACIAIg-Nellie+ACIAIg-+ACI-,female,26,0,0,19877,78.85,,S
+292,1,1,+ACI-Bishop, Mrs. Dickinson H (Helen Walton)+ACI-,female,19,1,0,11967,91.0792,B49,C
+293,0,2,+ACI-Levy, Mr. Rene Jacques+ACI-,male,36,0,0,SC/Paris 2163,12.875,D,C
+294,0,3,+ACI-Haas, Miss. Aloisia+ACI-,female,24,0,0,349236,8.85,,S
+295,0,3,+ACI-Mineff, Mr. Ivan+ACI-,male,24,0,0,349233,7.8958,,S
+296,0,1,+ACI-Lewy, Mr. Ervin G+ACI-,male,,0,0,PC 17612,27.7208,,C
+297,0,3,+ACI-Hanna, Mr. Mansour+ACI-,male,23.5,0,0,2693,7.2292,,C
+298,0,1,+ACI-Allison, Miss. Helen Loraine+ACI-,female,2,1,2,113781,151.55,C22 C26,S
+299,1,1,+ACI-Saalfeld, Mr. Adolphe+ACI-,male,,0,0,19988,30.5,C106,S
+300,1,1,+ACI-Baxter, Mrs. James (Helene DeLaudeniere Chaput)+ACI-,female,50,0,1,PC 17558,247.5208,B58 B60,C
+301,1,3,+ACI-Kelly, Miss. Anna Katherine +ACIAIg-Annie Kate+ACIAIg-+ACI-,female,,0,0,9234,7.75,,Q
+302,1,3,+ACI-McCoy, Mr. Bernard+ACI-,male,,2,0,367226,23.25,,Q
+303,0,3,+ACI-Johnson, Mr. William Cahoone Jr+ACI-,male,19,0,0,LINE,0,,S
+304,1,2,+ACI-Keane, Miss. Nora A+ACI-,female,,0,0,226593,12.35,E101,Q
+305,0,3,+ACI-Williams, Mr. Howard Hugh +ACIAIg-Harry+ACIAIg-+ACI-,male,,0,0,A/5 2466,8.05,,S
+306,1,1,+ACI-Allison, Master. Hudson Trevor+ACI-,male,0.92,1,2,113781,151.55,C22 C26,S
+307,1,1,+ACI-Fleming, Miss. Margaret+ACI-,female,,0,0,17421,110.8833,,C
+308,1,1,+ACI-Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)+ACI-,female,17,1,0,PC 17758,108.9,C65,C
+309,0,2,+ACI-Abelson, Mr. Samuel+ACI-,male,30,1,0,P/PP 3381,24,,C
+310,1,1,+ACI-Francatelli, Miss. Laura Mabel+ACI-,female,30,0,0,PC 17485,56.9292,E36,C
+311,1,1,+ACI-Hays, Miss. Margaret Bechstein+ACI-,female,24,0,0,11767,83.1583,C54,C
+312,1,1,+ACI-Ryerson, Miss. Emily Borie+ACI-,female,18,2,2,PC 17608,262.375,B57 B59 B63 B66,C
+313,0,2,+ACI-Lahtinen, Mrs. William (Anna Sylfven)+ACI-,female,26,1,1,250651,26,,S
+314,0,3,+ACI-Hendekovic, Mr. Ignjac+ACI-,male,28,0,0,349243,7.8958,,S
+315,0,2,+ACI-Hart, Mr. Benjamin+ACI-,male,43,1,1,F.C.C. 13529,26.25,,S
+316,1,3,+ACI-Nilsson, Miss. Helmina Josefina+ACI-,female,26,0,0,347470,7.8542,,S
+317,1,2,+ACI-Kantor, Mrs. Sinai (Miriam Sternin)+ACI-,female,24,1,0,244367,26,,S
+318,0,2,+ACI-Moraweck, Dr. Ernest+ACI-,male,54,0,0,29011,14,,S
+319,1,1,+ACI-Wick, Miss. Mary Natalie+ACI-,female,31,0,2,36928,164.8667,C7,S
+320,1,1,+ACI-Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)+ACI-,female,40,1,1,16966,134.5,E34,C
+321,0,3,+ACI-Dennis, Mr. Samuel+ACI-,male,22,0,0,A/5 21172,7.25,,S
+322,0,3,+ACI-Danoff, Mr. Yoto+ACI-,male,27,0,0,349219,7.8958,,S
+323,1,2,+ACI-Slayter, Miss. Hilda Mary+ACI-,female,30,0,0,234818,12.35,,Q
+324,1,2,+ACI-Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)+ACI-,female,22,1,1,248738,29,,S
+325,0,3,+ACI-Sage, Mr. George John Jr+ACI-,male,,8,2,CA. 2343,69.55,,S
+326,1,1,+ACI-Young, Miss. Marie Grice+ACI-,female,36,0,0,PC 17760,135.6333,C32,C
+327,0,3,+ACI-Nysveen, Mr. Johan Hansen+ACI-,male,61,0,0,345364,6.2375,,S
+328,1,2,+ACI-Ball, Mrs. (Ada E Hall)+ACI-,female,36,0,0,28551,13,D,S
+329,1,3,+ACI-Goldsmith, Mrs. Frank John (Emily Alice Brown)+ACI-,female,31,1,1,363291,20.525,,S
+330,1,1,+ACI-Hippach, Miss. Jean Gertrude+ACI-,female,16,0,1,111361,57.9792,B18,C
+331,1,3,+ACI-McCoy, Miss. Agnes+ACI-,female,,2,0,367226,23.25,,Q
+332,0,1,+ACI-Partner, Mr. Austen+ACI-,male,45.5,0,0,113043,28.5,C124,S
+333,0,1,+ACI-Graham, Mr. George Edward+ACI-,male,38,0,1,PC 17582,153.4625,C91,S
+334,0,3,+ACI-Vander Planke, Mr. Leo Edmondus+ACI-,male,16,2,0,345764,18,,S
+335,1,1,+ACI-Frauenthal, Mrs. Henry William (Clara Heinsheimer)+ACI-,female,,1,0,PC 17611,133.65,,S
+336,0,3,+ACI-Denkoff, Mr. Mitto+ACI-,male,,0,0,349225,7.8958,,S
+337,0,1,+ACI-Pears, Mr. Thomas Clinton+ACI-,male,29,1,0,113776,66.6,C2,S
+338,1,1,+ACI-Burns, Miss. Elizabeth Margaret+ACI-,female,41,0,0,16966,134.5,E40,C
+339,1,3,+ACI-Dahl, Mr. Karl Edwart+ACI-,male,45,0,0,7598,8.05,,S
+340,0,1,+ACI-Blackwell, Mr. Stephen Weart+ACI-,male,45,0,0,113784,35.5,T,S
+341,1,2,+ACI-Navratil, Master. Edmond Roger+ACI-,male,2,1,1,230080,26,F2,S
+342,1,1,+ACI-Fortune, Miss. Alice Elizabeth+ACI-,female,24,3,2,19950,263,C23 C25 C27,S
+343,0,2,+ACI-Collander, Mr. Erik Gustaf+ACI-,male,28,0,0,248740,13,,S
+344,0,2,+ACI-Sedgwick, Mr. Charles Frederick Waddington+ACI-,male,25,0,0,244361,13,,S
+345,0,2,+ACI-Fox, Mr. Stanley Hubert+ACI-,male,36,0,0,229236,13,,S
+346,1,2,+ACI-Brown, Miss. Amelia +ACIAIg-Mildred+ACIAIg-+ACI-,female,24,0,0,248733,13,F33,S
+347,1,2,+ACI-Smith, Miss. Marion Elsie+ACI-,female,40,0,0,31418,13,,S
+348,1,3,+ACI-Davison, Mrs. Thomas Henry (Mary E Finck)+ACI-,female,,1,0,386525,16.1,,S
+349,1,3,+ACI-Coutts, Master. William Loch +ACIAIg-William+ACIAIg-+ACI-,male,3,1,1,C.A. 37671,15.9,,S
+350,0,3,+ACI-Dimic, Mr. Jovan+ACI-,male,42,0,0,315088,8.6625,,S
+351,0,3,+ACI-Odahl, Mr. Nils Martin+ACI-,male,23,0,0,7267,9.225,,S
+352,0,1,+ACI-Williams+AC0-Lambert, Mr. Fletcher Fellows+ACI-,male,,0,0,113510,35,C128,S
+353,0,3,+ACI-Elias, Mr. Tannous+ACI-,male,15,1,1,2695,7.2292,,C
+354,0,3,+ACI-Arnold+AC0-Franchi, Mr. Josef+ACI-,male,25,1,0,349237,17.8,,S
+355,0,3,+ACI-Yousif, Mr. Wazli+ACI-,male,,0,0,2647,7.225,,C
+356,0,3,+ACI-Vanden Steen, Mr. Leo Peter+ACI-,male,28,0,0,345783,9.5,,S
+357,1,1,+ACI-Bowerman, Miss. Elsie Edith+ACI-,female,22,0,1,113505,55,E33,S
+358,0,2,+ACI-Funk, Miss. Annie Clemmer+ACI-,female,38,0,0,237671,13,,S
+359,1,3,+ACI-McGovern, Miss. Mary+ACI-,female,,0,0,330931,7.8792,,Q
+360,1,3,+ACI-Mockler, Miss. Helen Mary +ACIAIg-Ellie+ACIAIg-+ACI-,female,,0,0,330980,7.8792,,Q
+361,0,3,+ACI-Skoog, Mr. Wilhelm+ACI-,male,40,1,4,347088,27.9,,S
+362,0,2,+ACI-del Carlo, Mr. Sebastiano+ACI-,male,29,1,0,SC/PARIS 2167,27.7208,,C
+363,0,3,+ACI-Barbara, Mrs. (Catherine David)+ACI-,female,45,0,1,2691,14.4542,,C
+364,0,3,+ACI-Asim, Mr. Adola+ACI-,male,35,0,0,SOTON/O.Q. 3101310,7.05,,S
+365,0,3,+ACI-O'Brien, Mr. Thomas+ACI-,male,,1,0,370365,15.5,,Q
+366,0,3,+ACI-Adahl, Mr. Mauritz Nils Martin+ACI-,male,30,0,0,C 7076,7.25,,S
+367,1,1,+ACI-Warren, Mrs. Frank Manley (Anna Sophia Atkinson)+ACI-,female,60,1,0,110813,75.25,D37,C
+368,1,3,+ACI-Moussa, Mrs. (Mantoura Boulos)+ACI-,female,,0,0,2626,7.2292,,C
+369,1,3,+ACI-Jermyn, Miss. Annie+ACI-,female,,0,0,14313,7.75,,Q
+370,1,1,+ACI-Aubart, Mme. Leontine Pauline+ACI-,female,24,0,0,PC 17477,69.3,B35,C
+371,1,1,+ACI-Harder, Mr. George Achilles+ACI-,male,25,1,0,11765,55.4417,E50,C
+372,0,3,+ACI-Wiklund, Mr. Jakob Alfred+ACI-,male,18,1,0,3101267,6.4958,,S
+373,0,3,+ACI-Beavan, Mr. William Thomas+ACI-,male,19,0,0,323951,8.05,,S
+374,0,1,+ACI-Ringhini, Mr. Sante+ACI-,male,22,0,0,PC 17760,135.6333,,C
+375,0,3,+ACI-Palsson, Miss. Stina Viola+ACI-,female,3,3,1,349909,21.075,,S
+376,1,1,+ACI-Meyer, Mrs. Edgar Joseph (Leila Saks)+ACI-,female,,1,0,PC 17604,82.1708,,C
+377,1,3,+ACI-Landergren, Miss. Aurora Adelia+ACI-,female,22,0,0,C 7077,7.25,,S
+378,0,1,+ACI-Widener, Mr. Harry Elkins+ACI-,male,27,0,2,113503,211.5,C82,C
+379,0,3,+ACI-Betros, Mr. Tannous+ACI-,male,20,0,0,2648,4.0125,,C
+380,0,3,+ACI-Gustafsson, Mr. Karl Gideon+ACI-,male,19,0,0,347069,7.775,,S
+381,1,1,+ACI-Bidois, Miss. Rosalie+ACI-,female,42,0,0,PC 17757,227.525,,C
+382,1,3,+ACI-Nakid, Miss. Maria (+ACIAIg-Mary+ACIAIg-)+ACI-,female,1,0,2,2653,15.7417,,C
+383,0,3,+ACI-Tikkanen, Mr. Juho+ACI-,male,32,0,0,STON/O 2. 3101293,7.925,,S
+384,1,1,+ACI-Holverson, Mrs. Alexander Oskar (Mary Aline Towner)+ACI-,female,35,1,0,113789,52,,S
+385,0,3,+ACI-Plotcharsky, Mr. Vasil+ACI-,male,,0,0,349227,7.8958,,S
+386,0,2,+ACI-Davies, Mr. Charles Henry+ACI-,male,18,0,0,S.O.C. 14879,73.5,,S
+387,0,3,+ACI-Goodwin, Master. Sidney Leonard+ACI-,male,1,5,2,CA 2144,46.9,,S
+388,1,2,+ACI-Buss, Miss. Kate+ACI-,female,36,0,0,27849,13,,S
+389,0,3,+ACI-Sadlier, Mr. Matthew+ACI-,male,,0,0,367655,7.7292,,Q
+390,1,2,+ACI-Lehmann, Miss. Bertha+ACI-,female,17,0,0,SC 1748,12,,C
+391,1,1,+ACI-Carter, Mr. William Ernest+ACI-,male,36,1,2,113760,120,B96 B98,S
+392,1,3,+ACI-Jansson, Mr. Carl Olof+ACI-,male,21,0,0,350034,7.7958,,S
+393,0,3,+ACI-Gustafsson, Mr. Johan Birger+ACI-,male,28,2,0,3101277,7.925,,S
+394,1,1,+ACI-Newell, Miss. Marjorie+ACI-,female,23,1,0,35273,113.275,D36,C
+395,1,3,+ACI-Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)+ACI-,female,24,0,2,PP 9549,16.7,G6,S
+396,0,3,+ACI-Johansson, Mr. Erik+ACI-,male,22,0,0,350052,7.7958,,S
+397,0,3,+ACI-Olsson, Miss. Elina+ACI-,female,31,0,0,350407,7.8542,,S
+398,0,2,+ACI-McKane, Mr. Peter David+ACI-,male,46,0,0,28403,26,,S
+399,0,2,+ACI-Pain, Dr. Alfred+ACI-,male,23,0,0,244278,10.5,,S
+400,1,2,+ACI-Trout, Mrs. William H (Jessie L)+ACI-,female,28,0,0,240929,12.65,,S
+401,1,3,+ACI-Niskanen, Mr. Juha+ACI-,male,39,0,0,STON/O 2. 3101289,7.925,,S
+402,0,3,+ACI-Adams, Mr. John+ACI-,male,26,0,0,341826,8.05,,S
+403,0,3,+ACI-Jussila, Miss. Mari Aina+ACI-,female,21,1,0,4137,9.825,,S
+404,0,3,+ACI-Hakkarainen, Mr. Pekka Pietari+ACI-,male,28,1,0,STON/O2. 3101279,15.85,,S
+405,0,3,+ACI-Oreskovic, Miss. Marija+ACI-,female,20,0,0,315096,8.6625,,S
+406,0,2,+ACI-Gale, Mr. Shadrach+ACI-,male,34,1,0,28664,21,,S
+407,0,3,+ACI-Widegren, Mr. Carl/Charles Peter+ACI-,male,51,0,0,347064,7.75,,S
+408,1,2,+ACI-Richards, Master. William Rowe+ACI-,male,3,1,1,29106,18.75,,S
+409,0,3,+ACI-Birkeland, Mr. Hans Martin Monsen+ACI-,male,21,0,0,312992,7.775,,S
+410,0,3,+ACI-Lefebre, Miss. Ida+ACI-,female,,3,1,4133,25.4667,,S
+411,0,3,+ACI-Sdycoff, Mr. Todor+ACI-,male,,0,0,349222,7.8958,,S
+412,0,3,+ACI-Hart, Mr. Henry+ACI-,male,,0,0,394140,6.8583,,Q
+413,1,1,+ACI-Minahan, Miss. Daisy E+ACI-,female,33,1,0,19928,90,C78,Q
+414,0,2,+ACI-Cunningham, Mr. Alfred Fleming+ACI-,male,,0,0,239853,0,,S
+415,1,3,+ACI-Sundman, Mr. Johan Julian+ACI-,male,44,0,0,STON/O 2. 3101269,7.925,,S
+416,0,3,+ACI-Meek, Mrs. Thomas (Annie Louise Rowley)+ACI-,female,,0,0,343095,8.05,,S
+417,1,2,+ACI-Drew, Mrs. James Vivian (Lulu Thorne Christian)+ACI-,female,34,1,1,28220,32.5,,S
+418,1,2,+ACI-Silven, Miss. Lyyli Karoliina+ACI-,female,18,0,2,250652,13,,S
+419,0,2,+ACI-Matthews, Mr. William John+ACI-,male,30,0,0,28228,13,,S
+420,0,3,+ACI-Van Impe, Miss. Catharina+ACI-,female,10,0,2,345773,24.15,,S
+421,0,3,+ACI-Gheorgheff, Mr. Stanio+ACI-,male,,0,0,349254,7.8958,,C
+422,0,3,+ACI-Charters, Mr. David+ACI-,male,21,0,0,A/5. 13032,7.7333,,Q
+423,0,3,+ACI-Zimmerman, Mr. Leo+ACI-,male,29,0,0,315082,7.875,,S
+424,0,3,+ACI-Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)+ACI-,female,28,1,1,347080,14.4,,S
+425,0,3,+ACI-Rosblom, Mr. Viktor Richard+ACI-,male,18,1,1,370129,20.2125,,S
+426,0,3,+ACI-Wiseman, Mr. Phillippe+ACI-,male,,0,0,A/4. 34244,7.25,,S
+427,1,2,+ACI-Clarke, Mrs. Charles V (Ada Maria Winfield)+ACI-,female,28,1,0,2003,26,,S
+428,1,2,+ACI-Phillips, Miss. Kate Florence (+ACIAIg-Mrs Kate Louise Phillips Marshall+ACIAIg-)+ACI-,female,19,0,0,250655,26,,S
+429,0,3,+ACI-Flynn, Mr. James+ACI-,male,,0,0,364851,7.75,,Q
+430,1,3,+ACI-Pickard, Mr. Berk (Berk Trembisky)+ACI-,male,32,0,0,SOTON/O.Q. 392078,8.05,E10,S
+431,1,1,+ACI-Bjornstrom+AC0-Steffansson, Mr. Mauritz Hakan+ACI-,male,28,0,0,110564,26.55,C52,S
+432,1,3,+ACI-Thorneycroft, Mrs. Percival (Florence Kate White)+ACI-,female,,1,0,376564,16.1,,S
+433,1,2,+ACI-Louch, Mrs. Charles Alexander (Alice Adelaide Slow)+ACI-,female,42,1,0,SC/AH 3085,26,,S
+434,0,3,+ACI-Kallio, Mr. Nikolai Erland+ACI-,male,17,0,0,STON/O 2. 3101274,7.125,,S
+435,0,1,+ACI-Silvey, Mr. William Baird+ACI-,male,50,1,0,13507,55.9,E44,S
+436,1,1,+ACI-Carter, Miss. Lucile Polk+ACI-,female,14,1,2,113760,120,B96 B98,S
+437,0,3,+ACI-Ford, Miss. Doolina Margaret +ACIAIg-Daisy+ACIAIg-+ACI-,female,21,2,2,W./C. 6608,34.375,,S
+438,1,2,+ACI-Richards, Mrs. Sidney (Emily Hocking)+ACI-,female,24,2,3,29106,18.75,,S
+439,0,1,+ACI-Fortune, Mr. Mark+ACI-,male,64,1,4,19950,263,C23 C25 C27,S
+440,0,2,+ACI-Kvillner, Mr. Johan Henrik Johannesson+ACI-,male,31,0,0,C.A. 18723,10.5,,S
+441,1,2,+ACI-Hart, Mrs. Benjamin (Esther Ada Bloomfield)+ACI-,female,45,1,1,F.C.C. 13529,26.25,,S
+442,0,3,+ACI-Hampe, Mr. Leon+ACI-,male,20,0,0,345769,9.5,,S
+443,0,3,+ACI-Petterson, Mr. Johan Emil+ACI-,male,25,1,0,347076,7.775,,S
+444,1,2,+ACI-Reynaldo, Ms. Encarnacion+ACI-,female,28,0,0,230434,13,,S
+445,1,3,+ACI-Johannesen+AC0-Bratthammer, Mr. Bernt+ACI-,male,,0,0,65306,8.1125,,S
+446,1,1,+ACI-Dodge, Master. Washington+ACI-,male,4,0,2,33638,81.8583,A34,S
+447,1,2,+ACI-Mellinger, Miss. Madeleine Violet+ACI-,female,13,0,1,250644,19.5,,S
+448,1,1,+ACI-Seward, Mr. Frederic Kimber+ACI-,male,34,0,0,113794,26.55,,S
+449,1,3,+ACI-Baclini, Miss. Marie Catherine+ACI-,female,5,2,1,2666,19.2583,,C
+450,1,1,+ACI-Peuchen, Major. Arthur Godfrey+ACI-,male,52,0,0,113786,30.5,C104,S
+451,0,2,+ACI-West, Mr. Edwy Arthur+ACI-,male,36,1,2,C.A. 34651,27.75,,S
+452,0,3,+ACI-Hagland, Mr. Ingvald Olai Olsen+ACI-,male,,1,0,65303,19.9667,,S
+453,0,1,+ACI-Foreman, Mr. Benjamin Laventall+ACI-,male,30,0,0,113051,27.75,C111,C
+454,1,1,+ACI-Goldenberg, Mr. Samuel L+ACI-,male,49,1,0,17453,89.1042,C92,C
+455,0,3,+ACI-Peduzzi, Mr. Joseph+ACI-,male,,0,0,A/5 2817,8.05,,S
+456,1,3,+ACI-Jalsevac, Mr. Ivan+ACI-,male,29,0,0,349240,7.8958,,C
+457,0,1,+ACI-Millet, Mr. Francis Davis+ACI-,male,65,0,0,13509,26.55,E38,S
+458,1,1,+ACI-Kenyon, Mrs. Frederick R (Marion)+ACI-,female,,1,0,17464,51.8625,D21,S
+459,1,2,+ACI-Toomey, Miss. Ellen+ACI-,female,50,0,0,F.C.C. 13531,10.5,,S
+460,0,3,+ACI-O'Connor, Mr. Maurice+ACI-,male,,0,0,371060,7.75,,Q
+461,1,1,+ACI-Anderson, Mr. Harry+ACI-,male,48,0,0,19952,26.55,E12,S
+462,0,3,+ACI-Morley, Mr. William+ACI-,male,34,0,0,364506,8.05,,S
+463,0,1,+ACI-Gee, Mr. Arthur H+ACI-,male,47,0,0,111320,38.5,E63,S
+464,0,2,+ACI-Milling, Mr. Jacob Christian+ACI-,male,48,0,0,234360,13,,S
+465,0,3,+ACI-Maisner, Mr. Simon+ACI-,male,,0,0,A/S 2816,8.05,,S
+466,0,3,+ACI-Goncalves, Mr. Manuel Estanslas+ACI-,male,38,0,0,SOTON/O.Q. 3101306,7.05,,S
+467,0,2,+ACI-Campbell, Mr. William+ACI-,male,,0,0,239853,0,,S
+468,0,1,+ACI-Smart, Mr. John Montgomery+ACI-,male,56,0,0,113792,26.55,,S
+469,0,3,+ACI-Scanlan, Mr. James+ACI-,male,,0,0,36209,7.725,,Q
+470,1,3,+ACI-Baclini, Miss. Helene Barbara+ACI-,female,0.75,2,1,2666,19.2583,,C
+471,0,3,+ACI-Keefe, Mr. Arthur+ACI-,male,,0,0,323592,7.25,,S
+472,0,3,+ACI-Cacic, Mr. Luka+ACI-,male,38,0,0,315089,8.6625,,S
+473,1,2,+ACI-West, Mrs. Edwy Arthur (Ada Mary Worth)+ACI-,female,33,1,2,C.A. 34651,27.75,,S
+474,1,2,+ACI-Jerwan, Mrs. Amin S (Marie Marthe Thuillard)+ACI-,female,23,0,0,SC/AH Basle 541,13.7917,D,C
+475,0,3,+ACI-Strandberg, Miss. Ida Sofia+ACI-,female,22,0,0,7553,9.8375,,S
+476,0,1,+ACI-Clifford, Mr. George Quincy+ACI-,male,,0,0,110465,52,A14,S
+477,0,2,+ACI-Renouf, Mr. Peter Henry+ACI-,male,34,1,0,31027,21,,S
+478,0,3,+ACI-Braund, Mr. Lewis Richard+ACI-,male,29,1,0,3460,7.0458,,S
+479,0,3,+ACI-Karlsson, Mr. Nils August+ACI-,male,22,0,0,350060,7.5208,,S
+480,1,3,+ACI-Hirvonen, Miss. Hildur E+ACI-,female,2,0,1,3101298,12.2875,,S
+481,0,3,+ACI-Goodwin, Master. Harold Victor+ACI-,male,9,5,2,CA 2144,46.9,,S
+482,0,2,+ACI-Frost, Mr. Anthony Wood +ACIAIg-Archie+ACIAIg-+ACI-,male,,0,0,239854,0,,S
+483,0,3,+ACI-Rouse, Mr. Richard Henry+ACI-,male,50,0,0,A/5 3594,8.05,,S
+484,1,3,+ACI-Turkula, Mrs. (Hedwig)+ACI-,female,63,0,0,4134,9.5875,,S
+485,1,1,+ACI-Bishop, Mr. Dickinson H+ACI-,male,25,1,0,11967,91.0792,B49,C
+486,0,3,+ACI-Lefebre, Miss. Jeannie+ACI-,female,,3,1,4133,25.4667,,S
+487,1,1,+ACI-Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)+ACI-,female,35,1,0,19943,90,C93,S
+488,0,1,+ACI-Kent, Mr. Edward Austin+ACI-,male,58,0,0,11771,29.7,B37,C
+489,0,3,+ACI-Somerton, Mr. Francis William+ACI-,male,30,0,0,A.5. 18509,8.05,,S
+490,1,3,+ACI-Coutts, Master. Eden Leslie +ACIAIg-Neville+ACIAIg-+ACI-,male,9,1,1,C.A. 37671,15.9,,S
+491,0,3,+ACI-Hagland, Mr. Konrad Mathias Reiersen+ACI-,male,,1,0,65304,19.9667,,S
+492,0,3,+ACI-Windelov, Mr. Einar+ACI-,male,21,0,0,SOTON/OQ 3101317,7.25,,S
+493,0,1,+ACI-Molson, Mr. Harry Markland+ACI-,male,55,0,0,113787,30.5,C30,S
+494,0,1,+ACI-Artagaveytia, Mr. Ramon+ACI-,male,71,0,0,PC 17609,49.5042,,C
+495,0,3,+ACI-Stanley, Mr. Edward Roland+ACI-,male,21,0,0,A/4 45380,8.05,,S
+496,0,3,+ACI-Yousseff, Mr. Gerious+ACI-,male,,0,0,2627,14.4583,,C
+497,1,1,+ACI-Eustis, Miss. Elizabeth Mussey+ACI-,female,54,1,0,36947,78.2667,D20,C
+498,0,3,+ACI-Shellard, Mr. Frederick William+ACI-,male,,0,0,C.A. 6212,15.1,,S
+499,0,1,+ACI-Allison, Mrs. Hudson J C (Bessie Waldo Daniels)+ACI-,female,25,1,2,113781,151.55,C22 C26,S
+500,0,3,+ACI-Svensson, Mr. Olof+ACI-,male,24,0,0,350035,7.7958,,S
+501,0,3,+ACI-Calic, Mr. Petar+ACI-,male,17,0,0,315086,8.6625,,S
+502,0,3,+ACI-Canavan, Miss. Mary+ACI-,female,21,0,0,364846,7.75,,Q
+503,0,3,+ACI-O'Sullivan, Miss. Bridget Mary+ACI-,female,,0,0,330909,7.6292,,Q
+504,0,3,+ACI-Laitinen, Miss. Kristina Sofia+ACI-,female,37,0,0,4135,9.5875,,S
+505,1,1,+ACI-Maioni, Miss. Roberta+ACI-,female,16,0,0,110152,86.5,B79,S
+506,0,1,+ACI-Penasco y Castellana, Mr. Victor de Satode+ACI-,male,18,1,0,PC 17758,108.9,C65,C
+507,1,2,+ACI-Quick, Mrs. Frederick Charles (Jane Richards)+ACI-,female,33,0,2,26360,26,,S
+508,1,1,+ACI-Bradley, Mr. George (+ACIAIg-George Arthur Brayton+ACIAIg-)+ACI-,male,,0,0,111427,26.55,,S
+509,0,3,+ACI-Olsen, Mr. Henry Margido+ACI-,male,28,0,0,C 4001,22.525,,S
+510,1,3,+ACI-Lang, Mr. Fang+ACI-,male,26,0,0,1601,56.4958,,S
+511,1,3,+ACI-Daly, Mr. Eugene Patrick+ACI-,male,29,0,0,382651,7.75,,Q
+512,0,3,+ACI-Webber, Mr. James+ACI-,male,,0,0,SOTON/OQ 3101316,8.05,,S
+513,1,1,+ACI-McGough, Mr. James Robert+ACI-,male,36,0,0,PC 17473,26.2875,E25,S
+514,1,1,+ACI-Rothschild, Mrs. Martin (Elizabeth L. Barrett)+ACI-,female,54,1,0,PC 17603,59.4,,C
+515,0,3,+ACI-Coleff, Mr. Satio+ACI-,male,24,0,0,349209,7.4958,,S
+516,0,1,+ACI-Walker, Mr. William Anderson+ACI-,male,47,0,0,36967,34.0208,D46,S
+517,1,2,+ACI-Lemore, Mrs. (Amelia Milley)+ACI-,female,34,0,0,C.A. 34260,10.5,F33,S
+518,0,3,+ACI-Ryan, Mr. Patrick+ACI-,male,,0,0,371110,24.15,,Q
+519,1,2,+ACI-Angle, Mrs. William A (Florence +ACIAIg-Mary+ACIAIg- Agnes Hughes)+ACI-,female,36,1,0,226875,26,,S
+520,0,3,+ACI-Pavlovic, Mr. Stefo+ACI-,male,32,0,0,349242,7.8958,,S
+521,1,1,+ACI-Perreault, Miss. Anne+ACI-,female,30,0,0,12749,93.5,B73,S
+522,0,3,+ACI-Vovk, Mr. Janko+ACI-,male,22,0,0,349252,7.8958,,S
+523,0,3,+ACI-Lahoud, Mr. Sarkis+ACI-,male,,0,0,2624,7.225,,C
+524,1,1,+ACI-Hippach, Mrs. Louis Albert (Ida Sophia Fischer)+ACI-,female,44,0,1,111361,57.9792,B18,C
+525,0,3,+ACI-Kassem, Mr. Fared+ACI-,male,,0,0,2700,7.2292,,C
+526,0,3,+ACI-Farrell, Mr. James+ACI-,male,40.5,0,0,367232,7.75,,Q
+527,1,2,+ACI-Ridsdale, Miss. Lucy+ACI-,female,50,0,0,W./C. 14258,10.5,,S
+528,0,1,+ACI-Farthing, Mr. John+ACI-,male,,0,0,PC 17483,221.7792,C95,S
+529,0,3,+ACI-Salonen, Mr. Johan Werner+ACI-,male,39,0,0,3101296,7.925,,S
+530,0,2,+ACI-Hocking, Mr. Richard George+ACI-,male,23,2,1,29104,11.5,,S
+531,1,2,+ACI-Quick, Miss. Phyllis May+ACI-,female,2,1,1,26360,26,,S
+532,0,3,+ACI-Toufik, Mr. Nakli+ACI-,male,,0,0,2641,7.2292,,C
+533,0,3,+ACI-Elias, Mr. Joseph Jr+ACI-,male,17,1,1,2690,7.2292,,C
+534,1,3,+ACI-Peter, Mrs. Catherine (Catherine Rizk)+ACI-,female,,0,2,2668,22.3583,,C
+535,0,3,+ACI-Cacic, Miss. Marija+ACI-,female,30,0,0,315084,8.6625,,S
+536,1,2,+ACI-Hart, Miss. Eva Miriam+ACI-,female,7,0,2,F.C.C. 13529,26.25,,S
+537,0,1,+ACI-Butt, Major. Archibald Willingham+ACI-,male,45,0,0,113050,26.55,B38,S
+538,1,1,+ACI-LeRoy, Miss. Bertha+ACI-,female,30,0,0,PC 17761,106.425,,C
+539,0,3,+ACI-Risien, Mr. Samuel Beard+ACI-,male,,0,0,364498,14.5,,S
+540,1,1,+ACI-Frolicher, Miss. Hedwig Margaritha+ACI-,female,22,0,2,13568,49.5,B39,C
+541,1,1,+ACI-Crosby, Miss. Harriet R+ACI-,female,36,0,2,WE/P 5735,71,B22,S
+542,0,3,+ACI-Andersson, Miss. Ingeborg Constanzia+ACI-,female,9,4,2,347082,31.275,,S
+543,0,3,+ACI-Andersson, Miss. Sigrid Elisabeth+ACI-,female,11,4,2,347082,31.275,,S
+544,1,2,+ACI-Beane, Mr. Edward+ACI-,male,32,1,0,2908,26,,S
+545,0,1,+ACI-Douglas, Mr. Walter Donald+ACI-,male,50,1,0,PC 17761,106.425,C86,C
+546,0,1,+ACI-Nicholson, Mr. Arthur Ernest+ACI-,male,64,0,0,693,26,,S
+547,1,2,+ACI-Beane, Mrs. Edward (Ethel Clarke)+ACI-,female,19,1,0,2908,26,,S
+548,1,2,+ACI-Padro y Manent, Mr. Julian+ACI-,male,,0,0,SC/PARIS 2146,13.8625,,C
+549,0,3,+ACI-Goldsmith, Mr. Frank John+ACI-,male,33,1,1,363291,20.525,,S
+550,1,2,+ACI-Davies, Master. John Morgan Jr+ACI-,male,8,1,1,C.A. 33112,36.75,,S
+551,1,1,+ACI-Thayer, Mr. John Borland Jr+ACI-,male,17,0,2,17421,110.8833,C70,C
+552,0,2,+ACI-Sharp, Mr. Percival James R+ACI-,male,27,0,0,244358,26,,S
+553,0,3,+ACI-O'Brien, Mr. Timothy+ACI-,male,,0,0,330979,7.8292,,Q
+554,1,3,+ACI-Leeni, Mr. Fahim (+ACIAIg-Philip Zenni+ACIAIg-)+ACI-,male,22,0,0,2620,7.225,,C
+555,1,3,+ACI-Ohman, Miss. Velin+ACI-,female,22,0,0,347085,7.775,,S
+556,0,1,+ACI-Wright, Mr. George+ACI-,male,62,0,0,113807,26.55,,S
+557,1,1,+ACI-Duff Gordon, Lady. (Lucille Christiana Sutherland) (+ACIAIg-Mrs Morgan+ACIAIg-)+ACI-,female,48,1,0,11755,39.6,A16,C
+558,0,1,+ACI-Robbins, Mr. Victor+ACI-,male,,0,0,PC 17757,227.525,,C
+559,1,1,+ACI-Taussig, Mrs. Emil (Tillie Mandelbaum)+ACI-,female,39,1,1,110413,79.65,E67,S
+560,1,3,+ACI-de Messemaeker, Mrs. Guillaume Joseph (Emma)+ACI-,female,36,1,0,345572,17.4,,S
+561,0,3,+ACI-Morrow, Mr. Thomas Rowan+ACI-,male,,0,0,372622,7.75,,Q
+562,0,3,+ACI-Sivic, Mr. Husein+ACI-,male,40,0,0,349251,7.8958,,S
+563,0,2,+ACI-Norman, Mr. Robert Douglas+ACI-,male,28,0,0,218629,13.5,,S
+564,0,3,+ACI-Simmons, Mr. John+ACI-,male,,0,0,SOTON/OQ 392082,8.05,,S
+565,0,3,+ACI-Meanwell, Miss. (Marion Ogden)+ACI-,female,,0,0,SOTON/O.Q. 392087,8.05,,S
+566,0,3,+ACI-Davies, Mr. Alfred J+ACI-,male,24,2,0,A/4 48871,24.15,,S
+567,0,3,+ACI-Stoytcheff, Mr. Ilia+ACI-,male,19,0,0,349205,7.8958,,S
+568,0,3,+ACI-Palsson, Mrs. Nils (Alma Cornelia Berglund)+ACI-,female,29,0,4,349909,21.075,,S
+569,0,3,+ACI-Doharr, Mr. Tannous+ACI-,male,,0,0,2686,7.2292,,C
+570,1,3,+ACI-Jonsson, Mr. Carl+ACI-,male,32,0,0,350417,7.8542,,S
+571,1,2,+ACI-Harris, Mr. George+ACI-,male,62,0,0,S.W./PP 752,10.5,,S
+572,1,1,+ACI-Appleton, Mrs. Edward Dale (Charlotte Lamson)+ACI-,female,53,2,0,11769,51.4792,C101,S
+573,1,1,+ACI-Flynn, Mr. John Irwin (+ACIAIg-Irving+ACIAIg-)+ACI-,male,36,0,0,PC 17474,26.3875,E25,S
+574,1,3,+ACI-Kelly, Miss. Mary+ACI-,female,,0,0,14312,7.75,,Q
+575,0,3,+ACI-Rush, Mr. Alfred George John+ACI-,male,16,0,0,A/4. 20589,8.05,,S
+576,0,3,+ACI-Patchett, Mr. George+ACI-,male,19,0,0,358585,14.5,,S
+577,1,2,+ACI-Garside, Miss. Ethel+ACI-,female,34,0,0,243880,13,,S
+578,1,1,+ACI-Silvey, Mrs. William Baird (Alice Munger)+ACI-,female,39,1,0,13507,55.9,E44,S
+579,0,3,+ACI-Caram, Mrs. Joseph (Maria Elias)+ACI-,female,,1,0,2689,14.4583,,C
+580,1,3,+ACI-Jussila, Mr. Eiriik+ACI-,male,32,0,0,STON/O 2. 3101286,7.925,,S
+581,1,2,+ACI-Christy, Miss. Julie Rachel+ACI-,female,25,1,1,237789,30,,S
+582,1,1,+ACI-Thayer, Mrs. John Borland (Marian Longstreth Morris)+ACI-,female,39,1,1,17421,110.8833,C68,C
+583,0,2,+ACI-Downton, Mr. William James+ACI-,male,54,0,0,28403,26,,S
+584,0,1,+ACI-Ross, Mr. John Hugo+ACI-,male,36,0,0,13049,40.125,A10,C
+585,0,3,+ACI-Paulner, Mr. Uscher+ACI-,male,,0,0,3411,8.7125,,C
+586,1,1,+ACI-Taussig, Miss. Ruth+ACI-,female,18,0,2,110413,79.65,E68,S
+587,0,2,+ACI-Jarvis, Mr. John Denzil+ACI-,male,47,0,0,237565,15,,S
+588,1,1,+ACI-Frolicher+AC0-Stehli, Mr. Maxmillian+ACI-,male,60,1,1,13567,79.2,B41,C
+589,0,3,+ACI-Gilinski, Mr. Eliezer+ACI-,male,22,0,0,14973,8.05,,S
+590,0,3,+ACI-Murdlin, Mr. Joseph+ACI-,male,,0,0,A./5. 3235,8.05,,S
+591,0,3,+ACI-Rintamaki, Mr. Matti+ACI-,male,35,0,0,STON/O 2. 3101273,7.125,,S
+592,1,1,+ACI-Stephenson, Mrs. Walter Bertram (Martha Eustis)+ACI-,female,52,1,0,36947,78.2667,D20,C
+593,0,3,+ACI-Elsbury, Mr. William James+ACI-,male,47,0,0,A/5 3902,7.25,,S
+594,0,3,+ACI-Bourke, Miss. Mary+ACI-,female,,0,2,364848,7.75,,Q
+595,0,2,+ACI-Chapman, Mr. John Henry+ACI-,male,37,1,0,SC/AH 29037,26,,S
+596,0,3,+ACI-Van Impe, Mr. Jean Baptiste+ACI-,male,36,1,1,345773,24.15,,S
+597,1,2,+ACI-Leitch, Miss. Jessie Wills+ACI-,female,,0,0,248727,33,,S
+598,0,3,+ACI-Johnson, Mr. Alfred+ACI-,male,49,0,0,LINE,0,,S
+599,0,3,+ACI-Boulos, Mr. Hanna+ACI-,male,,0,0,2664,7.225,,C
+600,1,1,+ACI-Duff Gordon, Sir. Cosmo Edmund (+ACIAIg-Mr Morgan+ACIAIg-)+ACI-,male,49,1,0,PC 17485,56.9292,A20,C
+601,1,2,+ACI-Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)+ACI-,female,24,2,1,243847,27,,S
+602,0,3,+ACI-Slabenoff, Mr. Petco+ACI-,male,,0,0,349214,7.8958,,S
+603,0,1,+ACI-Harrington, Mr. Charles H+ACI-,male,,0,0,113796,42.4,,S
+604,0,3,+ACI-Torber, Mr. Ernst William+ACI-,male,44,0,0,364511,8.05,,S
+605,1,1,+ACI-Homer, Mr. Harry (+ACIAIg-Mr E Haven+ACIAIg-)+ACI-,male,35,0,0,111426,26.55,,C
+606,0,3,+ACI-Lindell, Mr. Edvard Bengtsson+ACI-,male,36,1,0,349910,15.55,,S
+607,0,3,+ACI-Karaic, Mr. Milan+ACI-,male,30,0,0,349246,7.8958,,S
+608,1,1,+ACI-Daniel, Mr. Robert Williams+ACI-,male,27,0,0,113804,30.5,,S
+609,1,2,+ACI-Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)+ACI-,female,22,1,2,SC/Paris 2123,41.5792,,C
+610,1,1,+ACI-Shutes, Miss. Elizabeth W+ACI-,female,40,0,0,PC 17582,153.4625,C125,S
+611,0,3,+ACI-Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)+ACI-,female,39,1,5,347082,31.275,,S
+612,0,3,+ACI-Jardin, Mr. Jose Neto+ACI-,male,,0,0,SOTON/O.Q. 3101305,7.05,,S
+613,1,3,+ACI-Murphy, Miss. Margaret Jane+ACI-,female,,1,0,367230,15.5,,Q
+614,0,3,+ACI-Horgan, Mr. John+ACI-,male,,0,0,370377,7.75,,Q
+615,0,3,+ACI-Brocklebank, Mr. William Alfred+ACI-,male,35,0,0,364512,8.05,,S
+616,1,2,+ACI-Herman, Miss. Alice+ACI-,female,24,1,2,220845,65,,S
+617,0,3,+ACI-Danbom, Mr. Ernst Gilbert+ACI-,male,34,1,1,347080,14.4,,S
+618,0,3,+ACI-Lobb, Mrs. William Arthur (Cordelia K Stanlick)+ACI-,female,26,1,0,A/5. 3336,16.1,,S
+619,1,2,+ACI-Becker, Miss. Marion Louise+ACI-,female,4,2,1,230136,39,F4,S
+620,0,2,+ACI-Gavey, Mr. Lawrence+ACI-,male,26,0,0,31028,10.5,,S
+621,0,3,+ACI-Yasbeck, Mr. Antoni+ACI-,male,27,1,0,2659,14.4542,,C
+622,1,1,+ACI-Kimball, Mr. Edwin Nelson Jr+ACI-,male,42,1,0,11753,52.5542,D19,S
+623,1,3,+ACI-Nakid, Mr. Sahid+ACI-,male,20,1,1,2653,15.7417,,C
+624,0,3,+ACI-Hansen, Mr. Henry Damsgaard+ACI-,male,21,0,0,350029,7.8542,,S
+625,0,3,+ACI-Bowen, Mr. David John +ACIAIg-Dai+ACIAIg-+ACI-,male,21,0,0,54636,16.1,,S
+626,0,1,+ACI-Sutton, Mr. Frederick+ACI-,male,61,0,0,36963,32.3208,D50,S
+627,0,2,+ACI-Kirkland, Rev. Charles Leonard+ACI-,male,57,0,0,219533,12.35,,Q
+628,1,1,+ACI-Longley, Miss. Gretchen Fiske+ACI-,female,21,0,0,13502,77.9583,D9,S
+629,0,3,+ACI-Bostandyeff, Mr. Guentcho+ACI-,male,26,0,0,349224,7.8958,,S
+630,0,3,+ACI-O'Connell, Mr. Patrick D+ACI-,male,,0,0,334912,7.7333,,Q
+631,1,1,+ACI-Barkworth, Mr. Algernon Henry Wilson+ACI-,male,80,0,0,27042,30,A23,S
+632,0,3,+ACI-Lundahl, Mr. Johan Svensson+ACI-,male,51,0,0,347743,7.0542,,S
+633,1,1,+ACI-Stahelin+AC0-Maeglin, Dr. Max+ACI-,male,32,0,0,13214,30.5,B50,C
+634,0,1,+ACI-Parr, Mr. William Henry Marsh+ACI-,male,,0,0,112052,0,,S
+635,0,3,+ACI-Skoog, Miss. Mabel+ACI-,female,9,3,2,347088,27.9,,S
+636,1,2,+ACI-Davis, Miss. Mary+ACI-,female,28,0,0,237668,13,,S
+637,0,3,+ACI-Leinonen, Mr. Antti Gustaf+ACI-,male,32,0,0,STON/O 2. 3101292,7.925,,S
+638,0,2,+ACI-Collyer, Mr. Harvey+ACI-,male,31,1,1,C.A. 31921,26.25,,S
+639,0,3,+ACI-Panula, Mrs. Juha (Maria Emilia Ojala)+ACI-,female,41,0,5,3101295,39.6875,,S
+640,0,3,+ACI-Thorneycroft, Mr. Percival+ACI-,male,,1,0,376564,16.1,,S
+641,0,3,+ACI-Jensen, Mr. Hans Peder+ACI-,male,20,0,0,350050,7.8542,,S
+642,1,1,+ACI-Sagesser, Mlle. Emma+ACI-,female,24,0,0,PC 17477,69.3,B35,C
+643,0,3,+ACI-Skoog, Miss. Margit Elizabeth+ACI-,female,2,3,2,347088,27.9,,S
+644,1,3,+ACI-Foo, Mr. Choong+ACI-,male,,0,0,1601,56.4958,,S
+645,1,3,+ACI-Baclini, Miss. Eugenie+ACI-,female,0.75,2,1,2666,19.2583,,C
+646,1,1,+ACI-Harper, Mr. Henry Sleeper+ACI-,male,48,1,0,PC 17572,76.7292,D33,C
+647,0,3,+ACI-Cor, Mr. Liudevit+ACI-,male,19,0,0,349231,7.8958,,S
+648,1,1,+ACI-Simonius+AC0-Blumer, Col. Oberst Alfons+ACI-,male,56,0,0,13213,35.5,A26,C
+649,0,3,+ACI-Willey, Mr. Edward+ACI-,male,,0,0,S.O./P.P. 751,7.55,,S
+650,1,3,+ACI-Stanley, Miss. Amy Zillah Elsie+ACI-,female,23,0,0,CA. 2314,7.55,,S
+651,0,3,+ACI-Mitkoff, Mr. Mito+ACI-,male,,0,0,349221,7.8958,,S
+652,1,2,+ACI-Doling, Miss. Elsie+ACI-,female,18,0,1,231919,23,,S
+653,0,3,+ACI-Kalvik, Mr. Johannes Halvorsen+ACI-,male,21,0,0,8475,8.4333,,S
+654,1,3,+ACI-O'Leary, Miss. Hanora +ACIAIg-Norah+ACIAIg-+ACI-,female,,0,0,330919,7.8292,,Q
+655,0,3,+ACI-Hegarty, Miss. Hanora +ACIAIg-Nora+ACIAIg-+ACI-,female,18,0,0,365226,6.75,,Q
+656,0,2,+ACI-Hickman, Mr. Leonard Mark+ACI-,male,24,2,0,S.O.C. 14879,73.5,,S
+657,0,3,+ACI-Radeff, Mr. Alexander+ACI-,male,,0,0,349223,7.8958,,S
+658,0,3,+ACI-Bourke, Mrs. John (Catherine)+ACI-,female,32,1,1,364849,15.5,,Q
+659,0,2,+ACI-Eitemiller, Mr. George Floyd+ACI-,male,23,0,0,29751,13,,S
+660,0,1,+ACI-Newell, Mr. Arthur Webster+ACI-,male,58,0,2,35273,113.275,D48,C
+661,1,1,+ACI-Frauenthal, Dr. Henry William+ACI-,male,50,2,0,PC 17611,133.65,,S
+662,0,3,+ACI-Badt, Mr. Mohamed+ACI-,male,40,0,0,2623,7.225,,C
+663,0,1,+ACI-Colley, Mr. Edward Pomeroy+ACI-,male,47,0,0,5727,25.5875,E58,S
+664,0,3,+ACI-Coleff, Mr. Peju+ACI-,male,36,0,0,349210,7.4958,,S
+665,1,3,+ACI-Lindqvist, Mr. Eino William+ACI-,male,20,1,0,STON/O 2. 3101285,7.925,,S
+666,0,2,+ACI-Hickman, Mr. Lewis+ACI-,male,32,2,0,S.O.C. 14879,73.5,,S
+667,0,2,+ACI-Butler, Mr. Reginald Fenton+ACI-,male,25,0,0,234686,13,,S
+668,0,3,+ACI-Rommetvedt, Mr. Knud Paust+ACI-,male,,0,0,312993,7.775,,S
+669,0,3,+ACI-Cook, Mr. Jacob+ACI-,male,43,0,0,A/5 3536,8.05,,S
+670,1,1,+ACI-Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)+ACI-,female,,1,0,19996,52,C126,S
+671,1,2,+ACI-Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)+ACI-,female,40,1,1,29750,39,,S
+672,0,1,+ACI-Davidson, Mr. Thornton+ACI-,male,31,1,0,F.C. 12750,52,B71,S
+673,0,2,+ACI-Mitchell, Mr. Henry Michael+ACI-,male,70,0,0,C.A. 24580,10.5,,S
+674,1,2,+ACI-Wilhelms, Mr. Charles+ACI-,male,31,0,0,244270,13,,S
+675,0,2,+ACI-Watson, Mr. Ennis Hastings+ACI-,male,,0,0,239856,0,,S
+676,0,3,+ACI-Edvardsson, Mr. Gustaf Hjalmar+ACI-,male,18,0,0,349912,7.775,,S
+677,0,3,+ACI-Sawyer, Mr. Frederick Charles+ACI-,male,24.5,0,0,342826,8.05,,S
+678,1,3,+ACI-Turja, Miss. Anna Sofia+ACI-,female,18,0,0,4138,9.8417,,S
+679,0,3,+ACI-Goodwin, Mrs. Frederick (Augusta Tyler)+ACI-,female,43,1,6,CA 2144,46.9,,S
+680,1,1,+ACI-Cardeza, Mr. Thomas Drake Martinez+ACI-,male,36,0,1,PC 17755,512.3292,B51 B53 B55,C
+681,0,3,+ACI-Peters, Miss. Katie+ACI-,female,,0,0,330935,8.1375,,Q
+682,1,1,+ACI-Hassab, Mr. Hammad+ACI-,male,27,0,0,PC 17572,76.7292,D49,C
+683,0,3,+ACI-Olsvigen, Mr. Thor Anderson+ACI-,male,20,0,0,6563,9.225,,S
+684,0,3,+ACI-Goodwin, Mr. Charles Edward+ACI-,male,14,5,2,CA 2144,46.9,,S
+685,0,2,+ACI-Brown, Mr. Thomas William Solomon+ACI-,male,60,1,1,29750,39,,S
+686,0,2,+ACI-Laroche, Mr. Joseph Philippe Lemercier+ACI-,male,25,1,2,SC/Paris 2123,41.5792,,C
+687,0,3,+ACI-Panula, Mr. Jaako Arnold+ACI-,male,14,4,1,3101295,39.6875,,S
+688,0,3,+ACI-Dakic, Mr. Branko+ACI-,male,19,0,0,349228,10.1708,,S
+689,0,3,+ACI-Fischer, Mr. Eberhard Thelander+ACI-,male,18,0,0,350036,7.7958,,S
+690,1,1,+ACI-Madill, Miss. Georgette Alexandra+ACI-,female,15,0,1,24160,211.3375,B5,S
+691,1,1,+ACI-Dick, Mr. Albert Adrian+ACI-,male,31,1,0,17474,57,B20,S
+692,1,3,+ACI-Karun, Miss. Manca+ACI-,female,4,0,1,349256,13.4167,,C
+693,1,3,+ACI-Lam, Mr. Ali+ACI-,male,,0,0,1601,56.4958,,S
+694,0,3,+ACI-Saad, Mr. Khalil+ACI-,male,25,0,0,2672,7.225,,C
+695,0,1,+ACI-Weir, Col. John+ACI-,male,60,0,0,113800,26.55,,S
+696,0,2,+ACI-Chapman, Mr. Charles Henry+ACI-,male,52,0,0,248731,13.5,,S
+697,0,3,+ACI-Kelly, Mr. James+ACI-,male,44,0,0,363592,8.05,,S
+698,1,3,+ACI-Mullens, Miss. Katherine +ACIAIg-Katie+ACIAIg-+ACI-,female,,0,0,35852,7.7333,,Q
+699,0,1,+ACI-Thayer, Mr. John Borland+ACI-,male,49,1,1,17421,110.8833,C68,C
+700,0,3,+ACI-Humblen, Mr. Adolf Mathias Nicolai Olsen+ACI-,male,42,0,0,348121,7.65,F G63,S
+701,1,1,+ACI-Astor, Mrs. John Jacob (Madeleine Talmadge Force)+ACI-,female,18,1,0,PC 17757,227.525,C62 C64,C
+702,1,1,+ACI-Silverthorne, Mr. Spencer Victor+ACI-,male,35,0,0,PC 17475,26.2875,E24,S
+703,0,3,+ACI-Barbara, Miss. Saiide+ACI-,female,18,0,1,2691,14.4542,,C
+704,0,3,+ACI-Gallagher, Mr. Martin+ACI-,male,25,0,0,36864,7.7417,,Q
+705,0,3,+ACI-Hansen, Mr. Henrik Juul+ACI-,male,26,1,0,350025,7.8542,,S
+706,0,2,+ACI-Morley, Mr. Henry Samuel (+ACIAIg-Mr Henry Marshall+ACIAIg-)+ACI-,male,39,0,0,250655,26,,S
+707,1,2,+ACI-Kelly, Mrs. Florence +ACIAIg-Fannie+ACIAIg-+ACI-,female,45,0,0,223596,13.5,,S
+708,1,1,+ACI-Calderhead, Mr. Edward Pennington+ACI-,male,42,0,0,PC 17476,26.2875,E24,S
+709,1,1,+ACI-Cleaver, Miss. Alice+ACI-,female,22,0,0,113781,151.55,,S
+710,1,3,+ACI-Moubarek, Master. Halim Gonios (+ACIAIg-William George+ACIAIg-)+ACI-,male,,1,1,2661,15.2458,,C
+711,1,1,+ACI-Mayne, Mlle. Berthe Antonine (+ACIAIg-Mrs de Villiers+ACIAIg-)+ACI-,female,24,0,0,PC 17482,49.5042,C90,C
+712,0,1,+ACI-Klaber, Mr. Herman+ACI-,male,,0,0,113028,26.55,C124,S
+713,1,1,+ACI-Taylor, Mr. Elmer Zebley+ACI-,male,48,1,0,19996,52,C126,S
+714,0,3,+ACI-Larsson, Mr. August Viktor+ACI-,male,29,0,0,7545,9.4833,,S
+715,0,2,+ACI-Greenberg, Mr. Samuel+ACI-,male,52,0,0,250647,13,,S
+716,0,3,+ACI-Soholt, Mr. Peter Andreas Lauritz Andersen+ACI-,male,19,0,0,348124,7.65,F G73,S
+717,1,1,+ACI-Endres, Miss. Caroline Louise+ACI-,female,38,0,0,PC 17757,227.525,C45,C
+718,1,2,+ACI-Troutt, Miss. Edwina Celia +ACIAIg-Winnie+ACIAIg-+ACI-,female,27,0,0,34218,10.5,E101,S
+719,0,3,+ACI-McEvoy, Mr. Michael+ACI-,male,,0,0,36568,15.5,,Q
+720,0,3,+ACI-Johnson, Mr. Malkolm Joackim+ACI-,male,33,0,0,347062,7.775,,S
+721,1,2,+ACI-Harper, Miss. Annie Jessie +ACIAIg-Nina+ACIAIg-+ACI-,female,6,0,1,248727,33,,S
+722,0,3,+ACI-Jensen, Mr. Svend Lauritz+ACI-,male,17,1,0,350048,7.0542,,S
+723,0,2,+ACI-Gillespie, Mr. William Henry+ACI-,male,34,0,0,12233,13,,S
+724,0,2,+ACI-Hodges, Mr. Henry Price+ACI-,male,50,0,0,250643,13,,S
+725,1,1,+ACI-Chambers, Mr. Norman Campbell+ACI-,male,27,1,0,113806,53.1,E8,S
+726,0,3,+ACI-Oreskovic, Mr. Luka+ACI-,male,20,0,0,315094,8.6625,,S
+727,1,2,+ACI-Renouf, Mrs. Peter Henry (Lillian Jefferys)+ACI-,female,30,3,0,31027,21,,S
+728,1,3,+ACI-Mannion, Miss. Margareth+ACI-,female,,0,0,36866,7.7375,,Q
+729,0,2,+ACI-Bryhl, Mr. Kurt Arnold Gottfrid+ACI-,male,25,1,0,236853,26,,S
+730,0,3,+ACI-Ilmakangas, Miss. Pieta Sofia+ACI-,female,25,1,0,STON/O2. 3101271,7.925,,S
+731,1,1,+ACI-Allen, Miss. Elisabeth Walton+ACI-,female,29,0,0,24160,211.3375,B5,S
+732,0,3,+ACI-Hassan, Mr. Houssein G N+ACI-,male,11,0,0,2699,18.7875,,C
+733,0,2,+ACI-Knight, Mr. Robert J+ACI-,male,,0,0,239855,0,,S
+734,0,2,+ACI-Berriman, Mr. William John+ACI-,male,23,0,0,28425,13,,S
+735,0,2,+ACI-Troupiansky, Mr. Moses Aaron+ACI-,male,23,0,0,233639,13,,S
+736,0,3,+ACI-Williams, Mr. Leslie+ACI-,male,28.5,0,0,54636,16.1,,S
+737,0,3,+ACI-Ford, Mrs. Edward (Margaret Ann Watson)+ACI-,female,48,1,3,W./C. 6608,34.375,,S
+738,1,1,+ACI-Lesurer, Mr. Gustave J+ACI-,male,35,0,0,PC 17755,512.3292,B101,C
+739,0,3,+ACI-Ivanoff, Mr. Kanio+ACI-,male,,0,0,349201,7.8958,,S
+740,0,3,+ACI-Nankoff, Mr. Minko+ACI-,male,,0,0,349218,7.8958,,S
+741,1,1,+ACI-Hawksford, Mr. Walter James+ACI-,male,,0,0,16988,30,D45,S
+742,0,1,+ACI-Cavendish, Mr. Tyrell William+ACI-,male,36,1,0,19877,78.85,C46,S
+743,1,1,+ACI-Ryerson, Miss. Susan Parker +ACIAIg-Suzette+ACIAIg-+ACI-,female,21,2,2,PC 17608,262.375,B57 B59 B63 B66,C
+744,0,3,+ACI-McNamee, Mr. Neal+ACI-,male,24,1,0,376566,16.1,,S
+745,1,3,+ACI-Stranden, Mr. Juho+ACI-,male,31,0,0,STON/O 2. 3101288,7.925,,S
+746,0,1,+ACI-Crosby, Capt. Edward Gifford+ACI-,male,70,1,1,WE/P 5735,71,B22,S
+747,0,3,+ACI-Abbott, Mr. Rossmore Edward+ACI-,male,16,1,1,C.A. 2673,20.25,,S
+748,1,2,+ACI-Sinkkonen, Miss. Anna+ACI-,female,30,0,0,250648,13,,S
+749,0,1,+ACI-Marvin, Mr. Daniel Warner+ACI-,male,19,1,0,113773,53.1,D30,S
+750,0,3,+ACI-Connaghton, Mr. Michael+ACI-,male,31,0,0,335097,7.75,,Q
+751,1,2,+ACI-Wells, Miss. Joan+ACI-,female,4,1,1,29103,23,,S
+752,1,3,+ACI-Moor, Master. Meier+ACI-,male,6,0,1,392096,12.475,E121,S
+753,0,3,+ACI-Vande Velde, Mr. Johannes Joseph+ACI-,male,33,0,0,345780,9.5,,S
+754,0,3,+ACI-Jonkoff, Mr. Lalio+ACI-,male,23,0,0,349204,7.8958,,S
+755,1,2,+ACI-Herman, Mrs. Samuel (Jane Laver)+ACI-,female,48,1,2,220845,65,,S
+756,1,2,+ACI-Hamalainen, Master. Viljo+ACI-,male,0.67,1,1,250649,14.5,,S
+757,0,3,+ACI-Carlsson, Mr. August Sigfrid+ACI-,male,28,0,0,350042,7.7958,,S
+758,0,2,+ACI-Bailey, Mr. Percy Andrew+ACI-,male,18,0,0,29108,11.5,,S
+759,0,3,+ACI-Theobald, Mr. Thomas Leonard+ACI-,male,34,0,0,363294,8.05,,S
+760,1,1,+ACI-Rothes, the Countess. of (Lucy Noel Martha Dyer+AC0-Edwards)+ACI-,female,33,0,0,110152,86.5,B77,S
+761,0,3,+ACI-Garfirth, Mr. John+ACI-,male,,0,0,358585,14.5,,S
+762,0,3,+ACI-Nirva, Mr. Iisakki Antino Aijo+ACI-,male,41,0,0,SOTON/O2 3101272,7.125,,S
+763,1,3,+ACI-Barah, Mr. Hanna Assi+ACI-,male,20,0,0,2663,7.2292,,C
+764,1,1,+ACI-Carter, Mrs. William Ernest (Lucile Polk)+ACI-,female,36,1,2,113760,120,B96 B98,S
+765,0,3,+ACI-Eklund, Mr. Hans Linus+ACI-,male,16,0,0,347074,7.775,,S
+766,1,1,+ACI-Hogeboom, Mrs. John C (Anna Andrews)+ACI-,female,51,1,0,13502,77.9583,D11,S
+767,0,1,+ACI-Brewe, Dr. Arthur Jackson+ACI-,male,,0,0,112379,39.6,,C
+768,0,3,+ACI-Mangan, Miss. Mary+ACI-,female,30.5,0,0,364850,7.75,,Q
+769,0,3,+ACI-Moran, Mr. Daniel J+ACI-,male,,1,0,371110,24.15,,Q
+770,0,3,+ACI-Gronnestad, Mr. Daniel Danielsen+ACI-,male,32,0,0,8471,8.3625,,S
+771,0,3,+ACI-Lievens, Mr. Rene Aime+ACI-,male,24,0,0,345781,9.5,,S
+772,0,3,+ACI-Jensen, Mr. Niels Peder+ACI-,male,48,0,0,350047,7.8542,,S
+773,0,2,+ACI-Mack, Mrs. (Mary)+ACI-,female,57,0,0,S.O./P.P. 3,10.5,E77,S
+774,0,3,+ACI-Elias, Mr. Dibo+ACI-,male,,0,0,2674,7.225,,C
+775,1,2,+ACI-Hocking, Mrs. Elizabeth (Eliza Needs)+ACI-,female,54,1,3,29105,23,,S
+776,0,3,+ACI-Myhrman, Mr. Pehr Fabian Oliver Malkolm+ACI-,male,18,0,0,347078,7.75,,S
+777,0,3,+ACI-Tobin, Mr. Roger+ACI-,male,,0,0,383121,7.75,F38,Q
+778,1,3,+ACI-Emanuel, Miss. Virginia Ethel+ACI-,female,5,0,0,364516,12.475,,S
+779,0,3,+ACI-Kilgannon, Mr. Thomas J+ACI-,male,,0,0,36865,7.7375,,Q
+780,1,1,+ACI-Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)+ACI-,female,43,0,1,24160,211.3375,B3,S
+781,1,3,+ACI-Ayoub, Miss. Banoura+ACI-,female,13,0,0,2687,7.2292,,C
+782,1,1,+ACI-Dick, Mrs. Albert Adrian (Vera Gillespie)+ACI-,female,17,1,0,17474,57,B20,S
+783,0,1,+ACI-Long, Mr. Milton Clyde+ACI-,male,29,0,0,113501,30,D6,S
+784,0,3,+ACI-Johnston, Mr. Andrew G+ACI-,male,,1,2,W./C. 6607,23.45,,S
+785,0,3,+ACI-Ali, Mr. William+ACI-,male,25,0,0,SOTON/O.Q. 3101312,7.05,,S
+786,0,3,+ACI-Harmer, Mr. Abraham (David Lishin)+ACI-,male,25,0,0,374887,7.25,,S
+787,1,3,+ACI-Sjoblom, Miss. Anna Sofia+ACI-,female,18,0,0,3101265,7.4958,,S
+788,0,3,+ACI-Rice, Master. George Hugh+ACI-,male,8,4,1,382652,29.125,,Q
+789,1,3,+ACI-Dean, Master. Bertram Vere+ACI-,male,1,1,2,C.A. 2315,20.575,,S
+790,0,1,+ACI-Guggenheim, Mr. Benjamin+ACI-,male,46,0,0,PC 17593,79.2,B82 B84,C
+791,0,3,+ACI-Keane, Mr. Andrew +ACIAIg-Andy+ACIAIg-+ACI-,male,,0,0,12460,7.75,,Q
+792,0,2,+ACI-Gaskell, Mr. Alfred+ACI-,male,16,0,0,239865,26,,S
+793,0,3,+ACI-Sage, Miss. Stella Anna+ACI-,female,,8,2,CA. 2343,69.55,,S
+794,0,1,+ACI-Hoyt, Mr. William Fisher+ACI-,male,,0,0,PC 17600,30.6958,,C
+795,0,3,+ACI-Dantcheff, Mr. Ristiu+ACI-,male,25,0,0,349203,7.8958,,S
+796,0,2,+ACI-Otter, Mr. Richard+ACI-,male,39,0,0,28213,13,,S
+797,1,1,+ACI-Leader, Dr. Alice (Farnham)+ACI-,female,49,0,0,17465,25.9292,D17,S
+798,1,3,+ACI-Osman, Mrs. Mara+ACI-,female,31,0,0,349244,8.6833,,S
+799,0,3,+ACI-Ibrahim Shawah, Mr. Yousseff+ACI-,male,30,0,0,2685,7.2292,,C
+800,0,3,+ACI-Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)+ACI-,female,30,1,1,345773,24.15,,S
+801,0,2,+ACI-Ponesell, Mr. Martin+ACI-,male,34,0,0,250647,13,,S
+802,1,2,+ACI-Collyer, Mrs. Harvey (Charlotte Annie Tate)+ACI-,female,31,1,1,C.A. 31921,26.25,,S
+803,1,1,+ACI-Carter, Master. William Thornton II+ACI-,male,11,1,2,113760,120,B96 B98,S
+804,1,3,+ACI-Thomas, Master. Assad Alexander+ACI-,male,0.42,0,1,2625,8.5167,,C
+805,1,3,+ACI-Hedman, Mr. Oskar Arvid+ACI-,male,27,0,0,347089,6.975,,S
+806,0,3,+ACI-Johansson, Mr. Karl Johan+ACI-,male,31,0,0,347063,7.775,,S
+807,0,1,+ACI-Andrews, Mr. Thomas Jr+ACI-,male,39,0,0,112050,0,A36,S
+808,0,3,+ACI-Pettersson, Miss. Ellen Natalia+ACI-,female,18,0,0,347087,7.775,,S
+809,0,2,+ACI-Meyer, Mr. August+ACI-,male,39,0,0,248723,13,,S
+810,1,1,+ACI-Chambers, Mrs. Norman Campbell (Bertha Griggs)+ACI-,female,33,1,0,113806,53.1,E8,S
+811,0,3,+ACI-Alexander, Mr. William+ACI-,male,26,0,0,3474,7.8875,,S
+812,0,3,+ACI-Lester, Mr. James+ACI-,male,39,0,0,A/4 48871,24.15,,S
+813,0,2,+ACI-Slemen, Mr. Richard James+ACI-,male,35,0,0,28206,10.5,,S
+814,0,3,+ACI-Andersson, Miss. Ebba Iris Alfrida+ACI-,female,6,4,2,347082,31.275,,S
+815,0,3,+ACI-Tomlin, Mr. Ernest Portage+ACI-,male,30.5,0,0,364499,8.05,,S
+816,0,1,+ACI-Fry, Mr. Richard+ACI-,male,,0,0,112058,0,B102,S
+817,0,3,+ACI-Heininen, Miss. Wendla Maria+ACI-,female,23,0,0,STON/O2. 3101290,7.925,,S
+818,0,2,+ACI-Mallet, Mr. Albert+ACI-,male,31,1,1,S.C./PARIS 2079,37.0042,,C
+819,0,3,+ACI-Holm, Mr. John Fredrik Alexander+ACI-,male,43,0,0,C 7075,6.45,,S
+820,0,3,+ACI-Skoog, Master. Karl Thorsten+ACI-,male,10,3,2,347088,27.9,,S
+821,1,1,+ACI-Hays, Mrs. Charles Melville (Clara Jennings Gregg)+ACI-,female,52,1,1,12749,93.5,B69,S
+822,1,3,+ACI-Lulic, Mr. Nikola+ACI-,male,27,0,0,315098,8.6625,,S
+823,0,1,+ACI-Reuchlin, Jonkheer. John George+ACI-,male,38,0,0,19972,0,,S
+824,1,3,+ACI-Moor, Mrs. (Beila)+ACI-,female,27,0,1,392096,12.475,E121,S
+825,0,3,+ACI-Panula, Master. Urho Abraham+ACI-,male,2,4,1,3101295,39.6875,,S
+826,0,3,+ACI-Flynn, Mr. John+ACI-,male,,0,0,368323,6.95,,Q
+827,0,3,+ACI-Lam, Mr. Len+ACI-,male,,0,0,1601,56.4958,,S
+828,1,2,+ACI-Mallet, Master. Andre+ACI-,male,1,0,2,S.C./PARIS 2079,37.0042,,C
+829,1,3,+ACI-McCormack, Mr. Thomas Joseph+ACI-,male,,0,0,367228,7.75,,Q
+830,1,1,+ACI-Stone, Mrs. George Nelson (Martha Evelyn)+ACI-,female,62,0,0,113572,80,B28,
+831,1,3,+ACI-Yasbeck, Mrs. Antoni (Selini Alexander)+ACI-,female,15,1,0,2659,14.4542,,C
+832,1,2,+ACI-Richards, Master. George Sibley+ACI-,male,0.83,1,1,29106,18.75,,S
+833,0,3,+ACI-Saad, Mr. Amin+ACI-,male,,0,0,2671,7.2292,,C
+834,0,3,+ACI-Augustsson, Mr. Albert+ACI-,male,23,0,0,347468,7.8542,,S
+835,0,3,+ACI-Allum, Mr. Owen George+ACI-,male,18,0,0,2223,8.3,,S
+836,1,1,+ACI-Compton, Miss. Sara Rebecca+ACI-,female,39,1,1,PC 17756,83.1583,E49,C
+837,0,3,+ACI-Pasic, Mr. Jakob+ACI-,male,21,0,0,315097,8.6625,,S
+838,0,3,+ACI-Sirota, Mr. Maurice+ACI-,male,,0,0,392092,8.05,,S
+839,1,3,+ACI-Chip, Mr. Chang+ACI-,male,32,0,0,1601,56.4958,,S
+840,1,1,+ACI-Marechal, Mr. Pierre+ACI-,male,,0,0,11774,29.7,C47,C
+841,0,3,+ACI-Alhomaki, Mr. Ilmari Rudolf+ACI-,male,20,0,0,SOTON/O2 3101287,7.925,,S
+842,0,2,+ACI-Mudd, Mr. Thomas Charles+ACI-,male,16,0,0,S.O./P.P. 3,10.5,,S
+843,1,1,+ACI-Serepeca, Miss. Augusta+ACI-,female,30,0,0,113798,31,,C
+844,0,3,+ACI-Lemberopolous, Mr. Peter L+ACI-,male,34.5,0,0,2683,6.4375,,C
+845,0,3,+ACI-Culumovic, Mr. Jeso+ACI-,male,17,0,0,315090,8.6625,,S
+846,0,3,+ACI-Abbing, Mr. Anthony+ACI-,male,42,0,0,C.A. 5547,7.55,,S
+847,0,3,+ACI-Sage, Mr. Douglas Bullen+ACI-,male,,8,2,CA. 2343,69.55,,S
+848,0,3,+ACI-Markoff, Mr. Marin+ACI-,male,35,0,0,349213,7.8958,,C
+849,0,2,+ACI-Harper, Rev. John+ACI-,male,28,0,1,248727,33,,S
+850,1,1,+ACI-Goldenberg, Mrs. Samuel L (Edwiga Grabowska)+ACI-,female,,1,0,17453,89.1042,C92,C
+851,0,3,+ACI-Andersson, Master. Sigvard Harald Elias+ACI-,male,4,4,2,347082,31.275,,S
+852,0,3,+ACI-Svensson, Mr. Johan+ACI-,male,74,0,0,347060,7.775,,S
+853,0,3,+ACI-Boulos, Miss. Nourelain+ACI-,female,9,1,1,2678,15.2458,,C
+854,1,1,+ACI-Lines, Miss. Mary Conover+ACI-,female,16,0,1,PC 17592,39.4,D28,S
+855,0,2,+ACI-Carter, Mrs. Ernest Courtenay (Lilian Hughes)+ACI-,female,44,1,0,244252,26,,S
+856,1,3,+ACI-Aks, Mrs. Sam (Leah Rosen)+ACI-,female,18,0,1,392091,9.35,,S
+857,1,1,+ACI-Wick, Mrs. George Dennick (Mary Hitchcock)+ACI-,female,45,1,1,36928,164.8667,,S
+858,1,1,+ACI-Daly, Mr. Peter Denis +ACI-,male,51,0,0,113055,26.55,E17,S
+859,1,3,+ACI-Baclini, Mrs. Solomon (Latifa Qurban)+ACI-,female,24,0,3,2666,19.2583,,C
+860,0,3,+ACI-Razi, Mr. Raihed+ACI-,male,,0,0,2629,7.2292,,C
+861,0,3,+ACI-Hansen, Mr. Claus Peter+ACI-,male,41,2,0,350026,14.1083,,S
+862,0,2,+ACI-Giles, Mr. Frederick Edward+ACI-,male,21,1,0,28134,11.5,,S
+863,1,1,+ACI-Swift, Mrs. Frederick Joel (Margaret Welles Barron)+ACI-,female,48,0,0,17466,25.9292,D17,S
+864,0,3,+ACI-Sage, Miss. Dorothy Edith +ACIAIg-Dolly+ACIAIg-+ACI-,female,,8,2,CA. 2343,69.55,,S
+865,0,2,+ACI-Gill, Mr. John William+ACI-,male,24,0,0,233866,13,,S
+866,1,2,+ACI-Bystrom, Mrs. (Karolina)+ACI-,female,42,0,0,236852,13,,S
+867,1,2,+ACI-Duran y More, Miss. Asuncion+ACI-,female,27,1,0,SC/PARIS 2149,13.8583,,C
+868,0,1,+ACI-Roebling, Mr. Washington Augustus II+ACI-,male,31,0,0,PC 17590,50.4958,A24,S
+869,0,3,+ACI-van Melkebeke, Mr. Philemon+ACI-,male,,0,0,345777,9.5,,S
+870,1,3,+ACI-Johnson, Master. Harold Theodor+ACI-,male,4,1,1,347742,11.1333,,S
+871,0,3,+ACI-Balkic, Mr. Cerin+ACI-,male,26,0,0,349248,7.8958,,S
+872,1,1,+ACI-Beckwith, Mrs. Richard Leonard (Sallie Monypeny)+ACI-,female,47,1,1,11751,52.5542,D35,S
+873,0,1,+ACI-Carlsson, Mr. Frans Olof+ACI-,male,33,0,0,695,5,B51 B53 B55,S
+874,0,3,+ACI-Vander Cruyssen, Mr. Victor+ACI-,male,47,0,0,345765,9,,S
+875,1,2,+ACI-Abelson, Mrs. Samuel (Hannah Wizosky)+ACI-,female,28,1,0,P/PP 3381,24,,C
+876,1,3,+ACI-Najib, Miss. Adele Kiamie +ACIAIg-Jane+ACIAIg-+ACI-,female,15,0,0,2667,7.225,,C
+877,0,3,+ACI-Gustafsson, Mr. Alfred Ossian+ACI-,male,20,0,0,7534,9.8458,,S
+878,0,3,+ACI-Petroff, Mr. Nedelio+ACI-,male,19,0,0,349212,7.8958,,S
+879,0,3,+ACI-Laleff, Mr. Kristo+ACI-,male,,0,0,349217,7.8958,,S
+880,1,1,+ACI-Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)+ACI-,female,56,0,1,11767,83.1583,C50,C
+881,1,2,+ACI-Shelley, Mrs. William (Imanita Parrish Hall)+ACI-,female,25,0,1,230433,26,,S
+882,0,3,+ACI-Markun, Mr. Johann+ACI-,male,33,0,0,349257,7.8958,,S
+883,0,3,+ACI-Dahlberg, Miss. Gerda Ulrika+ACI-,female,22,0,0,7552,10.5167,,S
+884,0,2,+ACI-Banfield, Mr. Frederick James+ACI-,male,28,0,0,C.A./SOTON 34068,10.5,,S
+885,0,3,+ACI-Sutehall, Mr. Henry Jr+ACI-,male,25,0,0,SOTON/OQ 392076,7.05,,S
+886,0,3,+ACI-Rice, Mrs. William (Margaret Norton)+ACI-,female,39,0,5,382652,29.125,,Q
+887,0,2,+ACI-Montvila, Rev. Juozas+ACI-,male,27,0,0,211536,13,,S
+888,1,1,+ACI-Graham, Miss. Margaret Edith+ACI-,female,19,0,0,112053,30,B42,S
+889,0,3,+ACI-Johnston, Miss. Catherine Helen +ACIAIg-Carrie+ACIAIg-+ACI-,female,,1,2,W./C. 6607,23.45,,S
+890,1,1,+ACI-Behr, Mr. Karl Howell+ACI-,male,26,0,0,111369,30,C148,C
+891,0,3,+ACI-Dooley, Mr. Patrick+ACI-,male,32,0,0,370376,7.75,,Q
