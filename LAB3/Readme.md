@@ -86,15 +86,19 @@ The models were evaluated using:
 
 | Model + Pipeline | Training Accuracy | Testing Accuracy | Precision | Recall | F1-Score |
 |---|---:|---:|---:|---:|---:|
-| Logistic Regression + Pipeline A | | | | | |
-| Logistic Regression + Pipeline B | | | | | |
-| Decision Tree + Pipeline A | | | | | |
-| Decision Tree + Pipeline B | | | | | |
+| Logistic Regression + Pipeline A | 0.7968 | 0.7935 | | | |
+| Logistic Regression + Pipeline B | 0.7970 | 0.7934 | | | |
+| Decision Tree + Pipeline A | 0.9956 | 0.8461 | | | |
+| Decision Tree + Pipeline B | 0.9956 | 0.8467 | | | |
 
 ## Final Observations
 
-1. [Write your best-performing model based on your results.]
-2. [Compare the effect of StandardScaler and MinMaxScaler on Logistic Regression.]
-3. [Comment on the effect of scaling on Decision Tree.]
-4. [Comment on possible overfitting using training and testing accuracy.]
-5. [Summarize insights from the confusion matrices.]
+1. The Decision Tree models achieved higher testing accuracy than the Logistic Regression models. The best testing accuracy was obtained by Decision Tree with Pipeline B, with a testing accuracy of 0.8467.
+
+2. Logistic Regression showed very similar performance with both StandardScaler and MinMaxScaler. Pipeline A achieved a testing accuracy of 0.7935, while Pipeline B achieved 0.7934, indicating that the choice of scaler had very little effect.
+
+3. Scaling also made only a very small difference for the Decision Tree. Pipeline A achieved a testing accuracy of 0.8461, while Pipeline B achieved a slightly higher testing accuracy of 0.8467. This is expected because Decision Trees are generally less sensitive to feature scaling.
+
+4. Both Decision Tree models showed possible overfitting. Their training accuracy was 0.9956, while their testing accuracy was approximately 0.846, resulting in a train-test difference of about 0.149.
+
+5. Logistic Regression showed better generalization, with a very small difference between training and testing accuracy of approximately 0.003. Although its testing accuracy was lower than the Decision Tree, it showed no strong sign of overfitting.
