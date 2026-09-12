@@ -20,7 +20,12 @@ st.set_page_config(
 # BACKGROUND IMAGE
 # ==================================================
 
-background_image = r"D:\\202618011_DS605\\202618011_DiyaTilwani_DS605\\LAB4\\Background.jpg"
+import os
+
+background_image = os.path.join(
+    os.path.dirname(__file__),
+    "Background.jpg"
+)
 
 with open(background_image, "rb") as image_file:
     encoded_image = base64.b64encode(image_file.read()).decode()
@@ -247,13 +252,18 @@ st.markdown(
 
 
 # ==================================================
-# LOAD MODEL
+# LOAD TRAINED MODEL
 # ==================================================
+
+import os
 
 @st.cache_resource
 def load_model():
-    return joblib.load("airbnb_price_pipeline.pkl")
-
+    model_path = os.path.join(
+        os.path.dirname(__file__),
+        "airbnb_price_pipeline.pkl"
+    )
+    return joblib.load(model_path)
 
 model = load_model()
 
