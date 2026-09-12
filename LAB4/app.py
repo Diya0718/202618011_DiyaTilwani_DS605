@@ -20,7 +20,7 @@ st.set_page_config(
 # BACKGROUND IMAGE
 # ==================================================
 
-background_image = r"D:\\202618011_DS605\\202618011_DiyaTilwani_DS605\\LAB4\\Background.jpg"
+background_image = r"Background.jpg"
 
 with open(background_image, "rb") as image_file:
     encoded_image = base64.b64encode(image_file.read()).decode()
