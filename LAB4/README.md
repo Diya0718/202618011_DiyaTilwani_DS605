@@ -1,3 +1,8 @@
+## 🚀 Deployed Application
+
+**Streamlit Cloud:**  
+(https://air-bnb-price-predictor-nyc.streamlit.app/)
+
 # 🏠 Airbnb Price Prediction
 
 ## 📌 Project Overview
