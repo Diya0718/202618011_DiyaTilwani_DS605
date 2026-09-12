@@ -10,7 +10,7 @@ import base64
 # ==================================================
 
 st.set_page_config(
-    page_title="Airbnb Price Predictor",
+    page_title="Airbnb(NYC) Price Predictor",
     page_icon="🏠",
     layout="wide"
 )
