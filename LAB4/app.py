@@ -40,8 +40,8 @@ st.markdown(
     <style>
 
     /* ==========================================
-    FULL BACKGROUND
-    ========================================== */
+       BACKGROUND
+       ========================================== */
 
     .stApp {{
         background-image:
@@ -57,60 +57,57 @@ st.markdown(
     }}
 
 
-   /* ==========================================
-   RIGHT SIDEBAR - DARK IN ALL MODES
-   ========================================== */
+    /* ==========================================
+       RIGHT SIDEBAR
+       ========================================== */
 
-[data-testid="stSidebar"] {
-    position: fixed !important;
-    left: auto !important;
-    right: 0 !important;
-    top: 0 !important;
+    [data-testid="stSidebar"] {{
+        position: fixed !important;
+        left: auto !important;
+        right: 0 !important;
+        top: 0 !important;
 
-    width: 320px !important;
-    height: 100vh !important;
+        width: 320px !important;
+        height: 100vh !important;
 
-    background-color: #000000 !important;
+        background-color: #000000 !important;
 
-    z-index: 999 !important;
-}
+        z-index: 999 !important;
+    }}
 
-/* Sidebar inner area */
-[data-testid="stSidebar"] > div:first-child {
-    background-color: #000000 !important;
+    [data-testid="stSidebar"] > div:first-child {{
+        background-color: #000000 !important;
+        height: 100vh !important;
 
-    height: 100vh !important;
+        overflow-y: auto !important;
+        overflow-x: hidden !important;
 
-    overflow-y: auto !important;
-    overflow-x: hidden !important;
+        padding-bottom: 30px !important;
+    }}
 
-    padding-bottom: 30px !important;
-}
+    /* Sidebar text */
+    [data-testid="stSidebar"] h1,
+    [data-testid="stSidebar"] h2,
+    [data-testid="stSidebar"] h3,
+    [data-testid="stSidebar"] h4,
+    [data-testid="stSidebar"] p,
+    [data-testid="stSidebar"] label,
+    [data-testid="stSidebar"] span {{
+        color: white !important;
+    }}
 
-/* Sidebar text */
-[data-testid="stSidebar"] h1,
-[data-testid="stSidebar"] h2,
-[data-testid="stSidebar"] h3,
-[data-testid="stSidebar"] h4,
-[data-testid="stSidebar"] p,
-[data-testid="stSidebar"] label,
-[data-testid="stSidebar"] span {
-    color: white !important;
-}
-
-/* Sidebar divider */
-[data-testid="stSidebar"] hr {
-    border-color: rgba(255, 255, 255, 0.25) !important;
-}
+    /* Sidebar divider */
+    [data-testid="stSidebar"] hr {{
+        border-color: rgba(255, 255, 255, 0.25) !important;
+    }}
 
 
     /* ==========================================
-    MAIN CONTENT
-    ========================================== */
+       MAIN CONTENT
+       ========================================== */
 
     [data-testid="stMainBlockContainer"] {{
         width: calc(100% - 340px) !important;
-
         max-width: none !important;
 
         margin-left: 0 !important;
@@ -122,65 +119,23 @@ st.markdown(
 
 
     /* ==========================================
-    TITLE
-    ========================================== */
-
-    .title {{
-        font-size: 42px;
-        font-weight: 700;
-        color: white;
-
-        margin-bottom: 5px;
-    }}
-
-
-    /* ==========================================
-    SUBTITLE
-    ========================================== */
-
-    .subtitle {{
-        font-size: 18px;
-        color: white;
-
-        margin-bottom: 25px;
-    }}
-
-
-    /* ==========================================
-    SECTION TITLES
-       ========================================== */
-
-    .section-title {{
-        font-size: 24px;
-        font-weight: 600;
-        color: white;
-
-        margin-top: 25px;
-        margin-bottom: 15px;
-    }}
-
-
-    /* ==========================================
-    INFO MESSAGE
+       INFO MESSAGE
        ========================================== */
 
     [data-testid="stAlert"] {{
         background-color: rgba(20, 22, 30, 0.88) !important;
-
         border: 1px solid rgba(255, 255, 255, 0.35) !important;
-
         border-radius: 12px !important;
     }}
 
     [data-testid="stAlert"] p {{
         color: white !important;
-
         font-weight: 500 !important;
     }}
 
 
     /* ==========================================
-    INPUT BOXES
+       INPUT BOXES
        ========================================== */
 
     div[data-baseweb="select"] > div {{
@@ -191,69 +146,60 @@ st.markdown(
         background-color: rgba(20, 22, 30, 0.92) !important;
     }}
 
-
-    /* ==========================================
-    INPUT LABELS
-    ========================================== */
-
     label {{
         color: white !important;
     }}
 
 
-   /* ==========================================
-   PREDICTION BOX - DARK IN ALL MODES
-   ========================================== */
-
-[data-testid="stMetric"] {
-    background-color: rgba(20, 22, 30, 0.92) !important;
-    border: 1px solid rgba(255, 255, 255, 0.30) !important;
-    border-radius: 15px !important;
-    padding: 25px !important;
-}
-
-[data-testid="stMetricLabel"] {
-    color: white !important;
-}
-
-[data-testid="stMetricValue"] {
-    color: white !important;
-    font-size: 42px !important;
-}
-
-
     /* ==========================================
-    SUCCESS MESSAGE
-    ========================================== */
+       PREDICTION BOX
+       ========================================== */
 
-    div[data-testid="stNotification"] {{
-        border-radius: 10px !important;
+    [data-testid="stMetric"] {{
+        background-color: rgba(20, 22, 30, 0.92) !important;
+        border: 1px solid rgba(255, 255, 255, 0.30) !important;
+        border-radius: 15px !important;
+        padding: 25px !important;
     }}
 
-
-    /* ==========================================
-    SIDEBAR TEXT
-    ========================================== */
-
-    [data-testid="stSidebar"] h1,
-    [data-testid="stSidebar"] h2,
-    [data-testid="stSidebar"] h3,
-    [data-testid="stSidebar"] p {{
+    [data-testid="stMetricLabel"] {{
         color: white !important;
     }}
 
+    [data-testid="stMetricValue"] {{
+        color: white !important;
+        font-size: 42px !important;
+    }}
+
 
     /* ==========================================
-    MOBILE / SMALL SCREEN
-    ========================================== */
+       TITLE / SUBTITLE
+       ========================================== */
+
+    .title {{
+        text-align: center !important;
+        color: white !important;
+        font-size: 42px !important;
+        font-weight: 700 !important;
+    }}
+
+    .subtitle {{
+        text-align: center !important;
+        color: white !important;
+        font-size: 20px !important;
+        margin-bottom: 30px !important;
+    }}
+
+
+    /* ==========================================
+       SMALL SCREENS
+       ========================================== */
 
     @media (max-width: 900px) {{
 
         [data-testid="stMainBlockContainer"] {{
             width: 100% !important;
-
             margin-right: 0 !important;
-
             padding-left: 20px !important;
             padding-right: 20px !important;
         }}
@@ -264,7 +210,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-
 
 # ==================================================
 # LOAD TRAINED MODEL
