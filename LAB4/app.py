@@ -281,7 +281,7 @@ st.markdown(
         font-weight: 700;
         margin-bottom: 5px;
     ">
-        🏠 Airbnb(NYC) Price Predictor
+         Airbnb(NYC) Price Predictor
     </h1>
     """,
     unsafe_allow_html=True
