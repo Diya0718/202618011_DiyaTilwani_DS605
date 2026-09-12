@@ -57,30 +57,51 @@ st.markdown(
     }}
 
 
-    /* ==========================================
-    RIGHT SIDEBAR
-       ========================================== */
+   /* ==========================================
+   RIGHT SIDEBAR - DARK IN ALL MODES
+   ========================================== */
 
-    [data-testid="stSidebar"] {{
-        position: fixed !important;
-        right: 0 !important;
-        left: auto !important;
-        top: 0 !important;
+[data-testid="stSidebar"] {
+    position: fixed !important;
+    left: auto !important;
+    right: 0 !important;
+    top: 0 !important;
 
-        width: 320px !important;
-        height: 100vh !important;
+    width: 320px !important;
+    height: 100vh !important;
 
-        z-index: 999 !important;
-    }}
+    background-color: #000000 !important;
 
-    /* Make sidebar scrollable */
-    [data-testid="stSidebar"] > div:first-child {{
-        height: 100vh !important;
-        overflow-y: auto !important;
-        overflow-x: hidden !important;
+    z-index: 999 !important;
+}
 
-        padding-bottom: 30px !important;
-    }}
+/* Sidebar inner area */
+[data-testid="stSidebar"] > div:first-child {
+    background-color: #000000 !important;
+
+    height: 100vh !important;
+
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+
+    padding-bottom: 30px !important;
+}
+
+/* Sidebar text */
+[data-testid="stSidebar"] h1,
+[data-testid="stSidebar"] h2,
+[data-testid="stSidebar"] h3,
+[data-testid="stSidebar"] h4,
+[data-testid="stSidebar"] p,
+[data-testid="stSidebar"] label,
+[data-testid="stSidebar"] span {
+    color: white !important;
+}
+
+/* Sidebar divider */
+[data-testid="stSidebar"] hr {
+    border-color: rgba(255, 255, 255, 0.25) !important;
+}
 
 
     /* ==========================================
@@ -180,31 +201,25 @@ st.markdown(
     }}
 
 
-    /* ==========================================
-    PREDICTION AREA
-    ========================================== */
+   /* ==========================================
+   PREDICTION BOX - DARK IN ALL MODES
+   ========================================== */
 
-    [data-testid="stMetric"] {{
-        background-color: rgba(20, 22, 30, 0.92) !important;
+[data-testid="stMetric"] {
+    background-color: rgba(20, 22, 30, 0.92) !important;
+    border: 1px solid rgba(255, 255, 255, 0.30) !important;
+    border-radius: 15px !important;
+    padding: 25px !important;
+}
 
-        padding: 25px !important;
+[data-testid="stMetricLabel"] {
+    color: white !important;
+}
 
-        border-radius: 15px !important;
-
-        border: 1px solid rgba(255, 255, 255, 0.30) !important;
-
-        text-align: center !important;
-    }}
-
-    [data-testid="stMetricLabel"] {{
-        color: white !important;
-    }}
-
-    [data-testid="stMetricValue"] {{
-        color: white !important;
-
-        font-size: 42px !important;
-    }}
+[data-testid="stMetricValue"] {
+    color: white !important;
+    font-size: 42px !important;
+}
 
 
     /* ==========================================
