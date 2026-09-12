@@ -317,7 +317,7 @@ st.info(
 # ==================================================
 
 with st.sidebar:
-    st.mardown("""  
+    st.markdown("""  
     """)
     
     st.markdown("""
