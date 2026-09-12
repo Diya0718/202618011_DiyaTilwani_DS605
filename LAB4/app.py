@@ -20,7 +20,12 @@ st.set_page_config(
 # BACKGROUND IMAGE
 # ==================================================
 
-background_image = r"Background.jpg"
+import os
+
+background_image = os.path.join(
+    os.path.dirname(__file__),
+    "Background.jpg"
+)
 
 with open(background_image, "rb") as image_file:
     encoded_image = base64.b64encode(image_file.read()).decode()
