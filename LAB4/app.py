@@ -429,26 +429,47 @@ with col1:
     )
 
 
-with col2:
-
-    number_of_reviews = st.number_input(
-        "Number of Reviews",
-        min_value=0,
-        max_value=1000,
-        value=10,
-        step=1
+with col2: 
+ 
+    number_of_reviews = st.number_input( 
+        "Number of Reviews", 
+        min_value=0, 
+        max_value=1000, 
+        value=10, 
+        step=1 
+    ) 
+ 
+ 
+with col3: 
+ 
+    reviews_per_month = st.number_input( 
+        "Reviews per Month", 
+        min_value=0.0, 
+        max_value=100.0, 
+        value=1.0, 
+        step=0.1 
     )
 
 
-with col3:
+# Last review year
+last_review_year = st.selectbox(
+    "Last Review Year",
+    [
+        "No Review",
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+    ]
+)
 
-    reviews_per_month = st.number_input(
-        "Reviews per Month",
-        min_value=0.0,
-        max_value=100.0,
-        value=1.0,
-        step=0.1
-    )
+if last_review_year == "No Review":
+    last_review_year = np.nan
 
 
 # ==================================================
@@ -528,9 +549,12 @@ input_data = pd.DataFrame({
 
     "availability_365": [
         availability_365
+    ],
+
+    "last_review_year": [
+        last_review_year
     ]
 })
-
 
 # ==================================================
 # PREDICTION BUTTON
@@ -585,9 +609,10 @@ if predict_button:
 
         
         st.caption(
-            "The prediction is generated using the trained "
-            "Random Forest model with a log-transformed target."
-        )
+        "The prediction is generated using the trained "
+        "Random Forest model with a log-transformed target "
+        "and last review year as an additional feature."
+)
 
 
     except Exception as e:
