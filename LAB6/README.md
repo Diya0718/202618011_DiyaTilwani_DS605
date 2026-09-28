@@ -3,7 +3,7 @@
 
 **Course:** DS605 – Fundamentals of Machine Learning  
 **Assignment:** Lab Assignment 6  
-**Name:** Diya Tilwani
+**Name:** Diya Tilwani   
 **StudentId:** 202618011
 
 ---
