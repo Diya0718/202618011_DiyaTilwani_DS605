@@ -3,7 +3,8 @@
 
 **Course:** DS605 – Fundamentals of Machine Learning  
 **Assignment:** Lab Assignment 6  
-**Student:** Diya Tilwani
+**Name:** Diya Tilwani
+**StudentId:** 202618011
 
 ---
 
@@ -498,13 +499,3 @@ For the email spam classification task, the supplied dataset already contained 3
 Overall, the experiments demonstrate that **preprocessing, feature representation, scaling, and model selection can significantly affect traditional machine learning performance**. The image experiments particularly demonstrate that improving the representation of the input data can improve classification performance without using CNNs or other deep learning techniques.
 
 ---
-
-# 30. Author
-
-**Name : Diya Tilwani**
-
-**StudentId: 202618011**
-
-**Course: DS605 – Fundamentals of Machine Learning**
-
-**Assignment: Lab Assignment 6 – Feature Extraction and Machine Learning with Image and Text Data**
