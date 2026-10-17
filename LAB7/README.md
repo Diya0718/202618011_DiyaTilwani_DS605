@@ -342,5 +342,6 @@ The results illustrate the trade-off between representation size, retained infor
 ---
 
 **Course:** DS605 — Fundamentals of Machine Learning  
-**Lab:** Lab 7 — Image Representation, PCA, Eigenfaces and Face Recognition  
+**Lab 7 :** Image Representation, PCA, Eigenfaces and Face Recognition  
 **Student ID:** 202618011
+**Name:** Diya Tilwani
