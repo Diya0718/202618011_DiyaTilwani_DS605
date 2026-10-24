@@ -120,17 +120,19 @@ The implementation includes:
 
 The objective function minimized by the manual Linear SVM is:
 
-```text
-J(w, b) = 0.5 * ||w||^2
-          + (C/n) * sum(max(0, 1 - y_i * (w^T * x_i + b)))
-```
+$$
+J(w,b)=\frac{1}{2}\lVert w\rVert^2
++C\frac{1}{n}\sum_{i=1}^{n}
+\max\left(0,1-y_i(w^\top x_i+b)\right)
+$$
 
 The objective consists of two terms:
 
-1. **Regularization term:** `0.5 * ||w||^2` penalizes large weights and encourages a wider margin.
-2. **Hinge loss term:** `(C/n) * sum(max(0, 1 - y_i * (w^T * x_i + b)))` penalizes observations that are misclassified or lie inside the margin.
+1. **Regularization term:** $\frac{1}{2}\lVert w\rVert^2$ penalizes large weights and encourages a wider margin.
+2. **Hinge loss term:** $C\frac{1}{n}\sum_{i=1}^{n}\max(0,1-y_i(w^\top x_i+b))$ penalizes observations that are misclassified or lie inside the margin.
 
-Here, `w` is the weight vector, `b` is the bias, `C` is the regularization parameter, `n` is the number of training observations, `x_i` is the feature vector, and `y_i ∈ {-1, +1}` is the class label.
+Here, $w$ is the weight vector, $b$ is the bias, $C$ is the regularization parameter, $n$ is the number of training observations, $x_i$ is the feature vector, and $y_i\in\{-1,+1\}$ is the class label.
+
 
 
 The manual implementation was compared with Scikit-learn's `SVC(kernel="linear")`.
