@@ -118,15 +118,20 @@ The implementation includes:
 6. Evaluating predictions and classification accuracy.
 7. Visualizing the separating hyperplane, margin boundaries, and margin-violating training samples.
 
-The objective combines regularization and hinge loss:
+The objective function minimized by the manual Linear SVM is:
 
-\[
-J(w,b)=\frac{1}{2}\lVert w\rVert^2+
-C\frac{1}{n}\sum_{i=1}^{n}
-\max(0,1-y_i(w^\top x_i+b))
-\]
+$$
+J(w,b) = \frac{1}{2}\|w\|^2
++ \frac{C}{n}\sum_{i=1}^{n}
+\max\left(0, 1-y_i(w^\top x_i+b)\right)
+$$
 
-Here, \(C\) controls the trade-off between regularization and margin violations.
+The objective consists of two terms:
+
+1. **Regularization term:** $\frac{1}{2}\|w\|^2$ penalizes large weights and encourages a wider margin.
+2. **Hinge loss term:** $\frac{C}{n}\sum_{i=1}^{n}\max(0,1-y_i(w^\top x_i+b))$ penalizes observations that are misclassified or lie inside the margin.
+
+Here, $w$ is the weight vector, $b$ is the bias, $C$ is the regularization parameter, $n$ is the number of training observations, $x_i$ is the feature vector, and $y_i \in \{-1,+1\}$ is the class label.
 
 The manual implementation was compared with Scikit-learn's `SVC(kernel="linear")`.
 
